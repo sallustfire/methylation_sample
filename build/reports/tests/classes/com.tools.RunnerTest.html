@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - Class com.tools.RunnerTest</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class com.tools.RunnerTest</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/com.tools.html">com.tools</a> &gt; RunnerTest</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">2</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">0</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">1.448s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Tests</a>
+</li>
+<li>
+<a href="#tab1">Standard output</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="success">testRunCaller</td>
+<td>1.125s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testRunExtractor</td>
+<td>0.323s</td>
+<td class="success">passed</td>
+</tr>
+</table>
+</div>
+<div id="tab1" class="tab">
+<h2>Standard output</h2>
+<span class="code">
+<pre>11:09:40.176 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Read block 1
+11:09:40.189 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+11:09:40.189 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+11:09:40.190 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+11:09:40.190 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+11:09:40.190 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+[INFO] [03/14/2015 11:09:40.199] [MethylationSystem-akka.actor.default-dispatcher-4] [akka://MethylationSystem/user/$a/writer] Message [akka.actor.PoisonPill$] from Actor[akka://MethylationSystem/user/$a#-1057693758] to Actor[akka://MethylationSystem/user/$a/writer#1131224758] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+[INFO] [03/14/2015 11:09:40.202] [MethylationSystem-akka.actor.default-dispatcher-4] [akka://MethylationSystem/user/$a/worker] Message [akka.actor.PoisonPill$] from Actor[akka://MethylationSystem/user/$a#-1057693758] to Actor[akka://MethylationSystem/user/$a/worker#-1362729182] was not delivered. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+11:09:40.279 [Test worker] INFO  c.t.m.e.BismarkMethylationExtractor - Using 910 MB of memory
+11:09:40.335 [MethylationSystem-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Read block 1
+11:09:40.336 [MethylationSystem-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+11:09:40.342 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+11:09:40.342 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+[INFO] [03/14/2015 11:09:40.348] [MethylationSystem-akka.actor.default-dispatcher-3] [akka://MethylationSystem/user/$a/blocker] Message [akka.actor.Terminated] from Actor[akka://MethylationSystem/user/$a/blocker/$a#730765008] to Actor[akka://MethylationSystem/user/$a/blocker#1285892805] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+11:09:40.348 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:1884175
+11:09:40.369 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:4135274
+[INFO] [03/14/2015 11:09:40.369] [MethylationSystem-akka.actor.default-dispatcher-2] [akka://MethylationSystem/user/$a/$a/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://MethylationSystem/user/$a/$a/writer#-1013167965] to Actor[akka://MethylationSystem/user/$a/$a/writer#-1013167965] was not delivered. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+[INFO] [03/14/2015 11:09:40.369] [MethylationSystem-akka.actor.default-dispatcher-2] [akka://MethylationSystem/user/$a/$a/$a] Message [akka.actor.Terminated] from Actor[akka://MethylationSystem/user/$a/$a/writer#-1013167965] to Actor[akka://MethylationSystem/user/$a/$a/$a#1582957469] was not delivered. [3] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+[INFO] [03/14/2015 11:09:40.379] [MethylationSystem-akka.actor.default-dispatcher-4] [akka://MethylationSystem/user/$a/$b/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://MethylationSystem/user/$a/$b/writer#171021253] to Actor[akka://MethylationSystem/user/$a/$b/writer#171021253] was not delivered. [4] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+11:09:40.379 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:6386373
+[INFO] [03/14/2015 11:09:40.379] [MethylationSystem-akka.actor.default-dispatcher-4] [akka://MethylationSystem/user/$a/$b/$a] Message [akka.actor.Terminated] from Actor[akka://MethylationSystem/user/$a/$b/writer#171021253] to Actor[akka://MethylationSystem/user/$a/$b/$a#1306159049] was not delivered. [5] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+11:09:40.383 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:8637472
+[INFO] [03/14/2015 11:09:40.383] [MethylationSystem-akka.actor.default-dispatcher-5] [akka://MethylationSystem/user/$a/$c/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://MethylationSystem/user/$a/$c/writer#109516655] to Actor[akka://MethylationSystem/user/$a/$c/writer#109516655] was not delivered. [6] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+[INFO] [03/14/2015 11:09:40.384] [MethylationSystem-akka.actor.default-dispatcher-5] [akka://MethylationSystem/user/$a/$c/$a] Message [akka.actor.Terminated] from Actor[akka://MethylationSystem/user/$a/$c/writer#109516655] to Actor[akka://MethylationSystem/user/$a/$c/$a#2110050108] was not delivered. [7] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+11:09:40.387 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:10888571
+[INFO] [03/14/2015 11:09:40.387] [MethylationSystem-akka.actor.default-dispatcher-3] [akka://MethylationSystem/user/$a/$d/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://MethylationSystem/user/$a/$d/writer#592440883] to Actor[akka://MethylationSystem/user/$a/$d/writer#592440883] was not delivered. [8] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+[INFO] [03/14/2015 11:09:40.387] [MethylationSystem-akka.actor.default-dispatcher-3] [akka://MethylationSystem/user/$a/$d/$a] Message [akka.actor.Terminated] from Actor[akka://MethylationSystem/user/$a/$d/writer#592440883] to Actor[akka://MethylationSystem/user/$a/$d/$a#1706989546] was not delivered. [9] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+11:09:40.391 [MethylationSystem-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:13139670
+[INFO] [03/14/2015 11:09:40.391] [MethylationSystem-akka.actor.default-dispatcher-4] [akka://MethylationSystem/user/$a/$e/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://MethylationSystem/user/$a/$e/writer#-786352486] to Actor[akka://MethylationSystem/user/$a/$e/writer#-786352486] was not delivered. [10] dead letters encountered, no more dead letters will be logged. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+11:09:40.395 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:15390769
+11:09:40.399 [MethylationSystem-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:17641868
+11:09:40.403 [MethylationSystem-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:1307911
+11:09:40.410 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:8061208
+11:09:40.420 [MethylationSystem-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:10312307
+11:09:40.424 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:12563406
+11:09:40.427 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:14814505
+11:09:40.433 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:19316703
+11:09:40.437 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:21567802
+11:09:40.441 [MethylationSystem-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:23818901
+11:09:40.446 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:144527
+11:09:40.449 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:2395626
+11:09:40.453 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:4646725
+11:09:40.458 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:6897824
+11:09:40.462 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:9148923
+11:09:40.467 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:15902220
+11:09:40.472 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:20404418
+11:09:40.476 [MethylationSystem-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:1243806
+11:09:40.488 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:3494905
+11:09:40.491 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:5746004
+11:09:40.496 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:7997103
+11:09:40.501 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:10248202
+11:09:40.505 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:14750400
+11:09:40.509 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:17001499
+11:09:40.514 [MethylationSystem-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:19252598
+11:09:40.518 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:1805408
+11:09:40.522 [MethylationSystem-akka.actor.default-dispatcher-8] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:4056507
+11:09:40.526 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:6307606
+11:09:40.530 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:8558705
+11:09:40.533 [MethylationSystem-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:13060903
+11:09:40.537 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:15312002
+11:09:40.541 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:17563101
+11:09:40.545 [MethylationSystem-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:22065299
+11:09:40.550 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:26567497
+</pre>
+</span>
+</div>
+</div>
+<div id="footer">
+<p>Generated by 
+<a href="http://www.gradle.org">Gradle 2.1</a> at Mar 14, 2015 11:09:43 AM</p>
+</div>
+</div>
+</body>

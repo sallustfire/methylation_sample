@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tools.methylation.differential.DifferentialIntegrationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-03-14T18:09:40" hostname="Connors-MacBook-Pro-2.local" time="0.379">
+  <properties/>
+  <testcase name="testSiteCalling" classname="com.tools.methylation.differential.DifferentialIntegrationTest" time="0.243"/>
+  <testcase name="testRegionCalling" classname="com.tools.methylation.differential.DifferentialIntegrationTest" time="0.136"/>
+  <system-out><![CDATA[11:09:40.833 [TestSys-akka.actor.default-dispatcher-7] INFO  com.tools.actors.AbstractMaster - Read block 1
+11:09:40.833 [TestSys-akka.actor.default-dispatcher-7] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+11:09:40.906 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+11:09:40.906 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+11:09:41.028 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Read block 1
+11:09:41.028 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+11:09:41.033 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+11:09:41.033 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

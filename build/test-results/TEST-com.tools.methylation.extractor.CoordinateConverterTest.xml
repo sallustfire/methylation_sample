@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tools.methylation.extractor.CoordinateConverterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2015-03-14T18:09:42" hostname="Connors-MacBook-Pro-2.local" time="0.007">
+  <properties/>
+  <testcase name="testSplit" classname="com.tools.methylation.extractor.CoordinateConverterTest" time="0.001"/>
+  <testcase name="testConvertOffset" classname="com.tools.methylation.extractor.CoordinateConverterTest" time="0.002"/>
+  <testcase name="testReferenceLengthWithStop" classname="com.tools.methylation.extractor.CoordinateConverterTest" time="0.0"/>
+  <testcase name="testReferenceLength" classname="com.tools.methylation.extractor.CoordinateConverterTest" time="0.0"/>
+  <testcase name="testConvert" classname="com.tools.methylation.extractor.CoordinateConverterTest" time="0.0"/>
+  <testcase name="testConvertControl" classname="com.tools.methylation.extractor.CoordinateConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

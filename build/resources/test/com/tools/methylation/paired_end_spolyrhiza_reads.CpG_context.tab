@@ -1,0 +1,1346 @@
+###methylcf
+#seq	Spolyrhiza9509S413	2228
+#seq	Spolyrhiza9509S541	1506
+#seq	Spolyrhiza9509S467	1796
+#seq	Spolyrhiza9509S482	1691
+#seq	Spolyrhiza9509S346	3563
+#seq	Spolyrhiza9509S016	3535730
+#seq	Spolyrhiza9509S291	5838
+#seq	Spolyrhiza9509S183	12968
+#seq	Spolyrhiza9509S464	1814
+#seq	Spolyrhiza9509S061	92350
+#seq	Spolyrhiza9509S720	1100
+#seq	Spolyrhiza9509S387	2636
+#seq	Spolyrhiza9509S216	10095
+#seq	Spolyrhiza9509S169	14348
+#seq	Spolyrhiza9509S276	6529
+#seq	Spolyrhiza9509S220	9854
+#seq	Spolyrhiza9509S759	1020
+#seq	Spolyrhiza9509S378	2821
+#seq	Spolyrhiza9509S421	2190
+#seq	Spolyrhiza9509S511	1596
+#seq	Spolyrhiza9509S362	3185
+#seq	Spolyrhiza9509S372	2905
+#seq	Spolyrhiza9509S303	5114
+#seq	Spolyrhiza9509S201	11455
+#seq	Spolyrhiza9509S618	1327
+#seq	Spolyrhiza9509S698	1145
+#seq	Spolyrhiza9509S745	1053
+#seq	Spolyrhiza9509S021	3136671
+#seq	Spolyrhiza9509S229	9193
+#seq	Spolyrhiza9509S324	4400
+#seq	Spolyrhiza9509S662	1219
+#seq	Spolyrhiza9509S597	1370
+#seq	Spolyrhiza9509S196	12386
+#seq	Spolyrhiza9509S141	20388
+#seq	Spolyrhiza9509S507	1600
+#seq	Spolyrhiza9509S395	2518
+#seq	Spolyrhiza9509S358	3284
+#seq	Spolyrhiza9509S571	1430
+#seq	Spolyrhiza9509S102	34818
+#seq	Spolyrhiza9509S241	8255
+#seq	Spolyrhiza9509S068	72209
+#seq	Spolyrhiza9509S691	1155
+#seq	Spolyrhiza9509S583	1400
+#seq	Spolyrhiza9509S668	1193
+#seq	Spolyrhiza9509S735	1063
+#seq	Spolyrhiza9509S326	4316
+#seq	Spolyrhiza9509S675	1179
+#seq	Spolyrhiza9509S488	1672
+#seq	Spolyrhiza9509S770	1002
+#seq	Spolyrhiza9509S286	6062
+#seq	Spolyrhiza9509S115	27130
+#seq	Spolyrhiza9509S379	2739
+#seq	Spolyrhiza9509S062	90147
+#seq	Spolyrhiza9509S535	1511
+#seq	Spolyrhiza9509S534	1512
+#seq	Spolyrhiza9509S516	1573
+#seq	Spolyrhiza9509S234	8725
+#seq	Spolyrhiza9509S332	3978
+#seq	Spolyrhiza9509S190	12647
+#seq	Spolyrhiza9509S268	6721
+#seq	Spolyrhiza9509S524	1546
+#seq	Spolyrhiza9509S100	35452
+#seq	Spolyrhiza9509S121	24791
+#seq	Spolyrhiza9509S620	1322
+#seq	Spolyrhiza9509S558	1460
+#seq	Spolyrhiza9509S080	56789
+#seq	Spolyrhiza9509S730	1082
+#seq	Spolyrhiza9509S629	1281
+#seq	Spolyrhiza9509S050	157550
+#seq	Spolyrhiza9509S383	2695
+#seq	Spolyrhiza9509S111	28510
+#seq	Spolyrhiza9509S688	1160
+#seq	Spolyrhiza9509S189	12678
+#seq	Spolyrhiza9509S407	2326
+#seq	Spolyrhiza9509S084	51024
+#seq	Spolyrhiza9509S633	1275
+#seq	Spolyrhiza9509S427	2129
+#seq	Spolyrhiza9509S161	16135
+#seq	Spolyrhiza9509S596	1372
+#seq	Spolyrhiza9509S095	40511
+#seq	Spolyrhiza9509S072	64655
+#seq	Spolyrhiza9509S159	16407
+#seq	Spolyrhiza9509S751	1045
+#seq	Spolyrhiza9509S437	2034
+#seq	Spolyrhiza9509S621	1315
+#seq	Spolyrhiza9509S242	8219
+#seq	Spolyrhiza9509S497	1639
+#seq	Spolyrhiza9509S680	1169
+#seq	Spolyrhiza9509S547	1495
+#seq	Spolyrhiza9509S144	19640
+#seq	Spolyrhiza9509S178	13364
+#seq	Spolyrhiza9509S306	4908
+#seq	Spolyrhiza9509S013	4146344
+#seq	Spolyrhiza9509S260	7153
+#seq	Spolyrhiza9509S737	1061
+#seq	Spolyrhiza9509S489	1671
+#seq	Spolyrhiza9509S566	1436
+#seq	Spolyrhiza9509S210	10597
+#seq	Spolyrhiza9509S508	1600
+#seq	Spolyrhiza9509S587	1396
+#seq	Spolyrhiza9509S188	12689
+#seq	Spolyrhiza9509S617	1327
+#seq	Spolyrhiza9509S166	14661
+#seq	Spolyrhiza9509S607	1347
+#seq	Spolyrhiza9509S331	4051
+#seq	Spolyrhiza9509S195	12415
+#seq	Spolyrhiza9509S174	13731
+#seq	Spolyrhiza9509S674	1180
+#seq	Spolyrhiza9509S235	8707
+#seq	Spolyrhiza9509S049	163021
+#seq	Spolyrhiza9509S760	1019
+#seq	Spolyrhiza9509S325	4360
+#seq	Spolyrhiza9509S600	1361
+#seq	Spolyrhiza9509S360	3275
+#seq	Spolyrhiza9509S465	1809
+#seq	Spolyrhiza9509S184	12871
+#seq	Spolyrhiza9509S644	1256
+#seq	Spolyrhiza9509S692	1155
+#seq	Spolyrhiza9509S361	3214
+#seq	Spolyrhiza9509S388	2633
+#seq	Spolyrhiza9509S357	3296
+#seq	Spolyrhiza9509S288	5899
+#seq	Spolyrhiza9509S240	8259
+#seq	Spolyrhiza9509S359	3281
+#seq	Spolyrhiza9509S634	1272
+#seq	Spolyrhiza9509S217	9923
+#seq	Spolyrhiza9509S714	1111
+#seq	Spolyrhiza9509S140	20922
+#seq	Spolyrhiza9509S706	1129
+#seq	Spolyrhiza9509S020	3318930
+#seq	Spolyrhiza9509S200	11629
+#seq	Spolyrhiza9509S746	1052
+#seq	Spolyrhiza9509S083	52483
+#seq	Spolyrhiza9509S628	1285
+#seq	Spolyrhiza9509S228	9228
+#seq	Spolyrhiza9509S669	1191
+#seq	Spolyrhiza9509S492	1661
+#seq	Spolyrhiza9509S419	2196
+#seq	Spolyrhiza9509S221	9751
+#seq	Spolyrhiza9509S501	1626
+#seq	Spolyrhiza9509S685	1164
+#seq	Spolyrhiza9509S414	2225
+#seq	Spolyrhiza9509S098	37582
+#seq	Spolyrhiza9509S752	1042
+#seq	Spolyrhiza9509S615	1333
+#seq	Spolyrhiza9509S145	19616
+#seq	Spolyrhiza9509S278	6322
+#seq	Spolyrhiza9509S570	1432
+#seq	Spolyrhiza9509S560	1455
+#seq	Spolyrhiza9509S550	1484
+#seq	Spolyrhiza9509S446	1937
+#seq	Spolyrhiza9509S525	1542
+#seq	Spolyrhiza9509S428	2113
+#seq	Spolyrhiza9509S736	1062
+#seq	Spolyrhiza9509S151	17735
+#seq	Spolyrhiza9509S519	1567
+#seq	Spolyrhiza9509S408	2291
+#seq	Spolyrhiza9509S267	6723
+#seq	Spolyrhiza9509S010	4450370
+#seq	Spolyrhiza9509S389	2615
+#seq	Spolyrhiza9509S769	1002
+#seq	Spolyrhiza9509S568	1433
+#seq	Spolyrhiza9509S438	2026
+#seq	Spolyrhiza9509S034	719915
+#seq	Spolyrhiza9509S643	1258
+#seq	Spolyrhiza9509S567	1435
+#seq	Spolyrhiza9509S064	84644
+#seq	Spolyrhiza9509S029	1802708
+#seq	Spolyrhiza9509S546	1496
+#seq	Spolyrhiza9509S120	24850
+#seq	Spolyrhiza9509S450	1916
+#seq	Spolyrhiza9509S459	1852
+#seq	Spolyrhiza9509S660	1226
+#seq	Spolyrhiza9509S110	28690
+#seq	Spolyrhiza9509S663	1219
+#seq	Spolyrhiza9509S396	2510
+#seq	Spolyrhiza9509S136	21921
+#seq	Spolyrhiza9509S101	35163
+#seq	Spolyrhiza9509S653	1245
+#seq	Spolyrhiza9509S014	4084586
+#seq	Spolyrhiza9509S540	1507
+#seq	Spolyrhiza9509S318	4521
+#seq	Spolyrhiza9509S035	714504
+#seq	Spolyrhiza9509S716	1110
+#seq	Spolyrhiza9509S429	2111
+#seq	Spolyrhiza9509S330	4150
+#seq	Spolyrhiza9509S039	275851
+#seq	Spolyrhiza9509S512	1595
+#seq	Spolyrhiza9509S393	2548
+#seq	Spolyrhiza9509S448	1919
+#seq	Spolyrhiza9509S350	3406
+#seq	Spolyrhiza9509S137	21842
+#seq	Spolyrhiza9509S179	13278
+#seq	Spolyrhiza9509S327	4279
+#seq	Spolyrhiza9509S175	13699
+#seq	Spolyrhiza9509S385	2675
+#seq	Spolyrhiza9509S290	5850
+#seq	Spolyrhiza9509S681	1169
+#seq	Spolyrhiza9509S676	1175
+#seq	Spolyrhiza9509S503	1619
+#seq	Spolyrhiza9509S595	1373
+#seq	Spolyrhiza9509S187	12704
+#seq	Spolyrhiza9509S223	9660
+#seq	Spolyrhiza9509S528	1539
+#seq	Spolyrhiza9509S059	93740
+#seq	Spolyrhiza9509S509	1600
+#seq	Spolyrhiza9509S424	2150
+#seq	Spolyrhiza9509S505	1606
+#seq	Spolyrhiza9509S588	1391
+#seq	Spolyrhiza9509S157	16484
+#seq	Spolyrhiza9509S109	28831
+#seq	Spolyrhiza9509S209	10727
+#seq	Spolyrhiza9509S117	27080
+#seq	Spolyrhiza9509S128	23535
+#seq	Spolyrhiza9509S767	1009
+#seq	Spolyrhiza9509S707	1129
+#seq	Spolyrhiza9509S270	6695
+#seq	Spolyrhiza9509S753	1037
+#seq	Spolyrhiza9509S269	6712
+#seq	gi|342316100|ref|NC_015891.1|	168788
+#seq	Spolyrhiza9509S549	1489
+#seq	Spolyrhiza9509S363	3165
+#seq	Spolyrhiza9509S138	21011
+#seq	Spolyrhiza9509S709	1124
+#seq	Spolyrhiza9509S627	1286
+#seq	Spolyrhiza9509S521	1562
+#seq	Spolyrhiza9509S732	1066
+#seq	Spolyrhiza9509S635	1271
+#seq	Spolyrhiza9509S608	1346
+#seq	Spolyrhiza9509S574	1426
+#seq	Spolyrhiza9509S466	1804
+#seq	Spolyrhiza9509S118	26399
+#seq	Spolyrhiza9509S232	8822
+#seq	Spolyrhiza9509S741	1054
+#seq	Spolyrhiza9509S297	5369
+#seq	Spolyrhiza9509S211	10469
+#seq	Spolyrhiza9509S469	1785
+#seq	Spolyrhiza9509S018	3448653
+#seq	Spolyrhiza9509S051	143702
+#seq	Spolyrhiza9509S518	1567
+#seq	Spolyrhiza9509S610	1342
+#seq	Spolyrhiza9509S577	1414
+#seq	Spolyrhiza9509S556	1466
+#seq	Spolyrhiza9509S089	43984
+#seq	Spolyrhiza9509S646	1254
+#seq	Spolyrhiza9509S022	3072445
+#seq	Spolyrhiza9509S543	1505
+#seq	Spolyrhiza9509S142	19925
+#seq	Spolyrhiza9509S555	1467
+#seq	Spolyrhiza9509S727	1090
+#seq	Spolyrhiza9509S274	6573
+#seq	Spolyrhiza9509S304	5049
+#seq	Spolyrhiza9509S498	1639
+#seq	Spolyrhiza9509S308	4821
+#seq	Spolyrhiza9509S230	8987
+#seq	Spolyrhiza9509S637	1270
+#seq	Spolyrhiza9509S198	12042
+#seq	Spolyrhiza9509S086	47609
+#seq	Spolyrhiza9509S287	6044
+#seq	Spolyrhiza9509S417	2206
+#seq	Spolyrhiza9509S526	1542
+#seq	Spolyrhiza9509S113	27478
+#seq	Spolyrhiza9509S411	2234
+#seq	Spolyrhiza9509S656	1232
+#seq	Spolyrhiza9509S008	5318115
+#seq	Spolyrhiza9509S445	1944
+#seq	Spolyrhiza9509S280	6293
+#seq	Spolyrhiza9509S484	1688
+#seq	Spolyrhiza9509S371	2920
+#seq	Spolyrhiza9509S082	53950
+#seq	Spolyrhiza9509S075	61505
+#seq	Spolyrhiza9509S495	1657
+#seq	Spolyrhiza9509S254	7591
+#seq	Spolyrhiza9509S032	1428181
+#seq	Spolyrhiza9509S047	171839
+#seq	Spolyrhiza9509S092	42169
+#seq	Spolyrhiza9509S377	2827
+#seq	Spolyrhiza9509S474	1737
+#seq	Spolyrhiza9509S697	1146
+#seq	Spolyrhiza9509S344	3691
+#seq	Spolyrhiza9509S074	63117
+#seq	Spolyrhiza9509S400	2433
+#seq	Spolyrhiza9509S058	97159
+#seq	Spolyrhiza9509S015	3933469
+#seq	Spolyrhiza9509S139	20969
+#seq	Spolyrhiza9509S717	1108
+#seq	Spolyrhiza9509S661	1224
+#seq	Spolyrhiza9509S355	3305
+#seq	Spolyrhiza9509S300	5255
+#seq	Spolyrhiza9509S208	10871
+#seq	Spolyrhiza9509S441	2004
+#seq	Spolyrhiza9509S298	5343
+#seq	Spolyrhiza9509S386	2666
+#seq	Spolyrhiza9509S672	1182
+#seq	Spolyrhiza9509S164	15230
+#seq	Spolyrhiza9509S423	2181
+#seq	Spolyrhiza9509S696	1150
+#seq	Spolyrhiza9509S418	2199
+#seq	Spolyrhiza9509S158	16478
+#seq	Spolyrhiza9509S222	9696
+#seq	Spolyrhiza9509S582	1402
+#seq	Spolyrhiza9509S431	2096
+#seq	Spolyrhiza9509S172	13871
+#seq	Spolyrhiza9509S690	1156
+#seq	Spolyrhiza9509S349	3465
+#seq	Spolyrhiza9509S529	1539
+#seq	Spolyrhiza9509S339	3806
+#seq	Spolyrhiza9509S370	2938
+#seq	Spolyrhiza9509S212	10442
+#seq	Spolyrhiza9509S744	1053
+#seq	Spolyrhiza9509S060	93719
+#seq	Spolyrhiza9509S255	7496
+#seq	Spolyrhiza9509S150	18001
+#seq	Spolyrhiza9509S490	1669
+#seq	Spolyrhiza9509S168	14358
+#seq	Spolyrhiza9509S768	1008
+#seq	Spolyrhiza9509S502	1621
+#seq	Spolyrhiza9509S422	2189
+#seq	Spolyrhiza9509S108	30005
+#seq	Spolyrhiza9509S052	130969
+#seq	Spolyrhiza9509S636	1270
+#seq	Spolyrhiza9509S609	1343
+#seq	Spolyrhiza9509S468	1790
+#seq	Spolyrhiza9509S456	1871
+#seq	Spolyrhiza9509S726	1092
+#seq	Spolyrhiza9509S316	4578
+#seq	Spolyrhiza9509S708	1127
+#seq	Spolyrhiza9509S731	1070
+#seq	Spolyrhiza9509S548	1492
+#seq	Spolyrhiza9509S231	8861
+#seq	Spolyrhiza9509S191	12609
+#seq	Spolyrhiza9509S682	1169
+#seq	Spolyrhiza9509S542	1505
+#seq	Spolyrhiza9509S754	1034
+#seq	Spolyrhiza9509S743	1053
+#seq	Spolyrhiza9509S007	6009205
+#seq	Spolyrhiza9509S116	27098
+#seq	Spolyrhiza9509S589	1390
+#seq	Spolyrhiza9509S430	2101
+#seq	Spolyrhiza9509S704	1134
+#seq	Spolyrhiza9509S380	2722
+#seq	Spolyrhiza9509S460	1849
+#seq	Spolyrhiza9509S272	6652
+#seq	Spolyrhiza9509S475	1736
+#seq	Spolyrhiza9509S112	28006
+#seq	Spolyrhiza9509S199	11795
+#seq	Spolyrhiza9509S645	1255
+#seq	Spolyrhiza9509S439	2021
+#seq	Spolyrhiza9509S689	1159
+#seq	Spolyrhiza9509S238	8515
+#seq	Spolyrhiza9509S305	4996
+#seq	Spolyrhiza9509S412	2233
+#seq	Spolyrhiza9509S738	1061
+#seq	Spolyrhiza9509S275	6570
+#seq	Spolyrhiza9509S561	1453
+#seq	Spolyrhiza9509S296	5414
+#seq	Spolyrhiza9509S123	24720
+#seq	Spolyrhiza9509S197	12210
+#seq	Spolyrhiza9509S605	1349
+#seq	Spolyrhiza9509S343	3723
+#seq	Spolyrhiza9509S527	1541
+#seq	Spolyrhiza9509S067	75293
+#seq	Spolyrhiza9509S655	1232
+#seq	Spolyrhiza9509S667	1194
+#seq	Spolyrhiza9509S233	8801
+#seq	Spolyrhiza9509S073	64185
+#seq	Spolyrhiza9509S666	1199
+#seq	Spolyrhiza9509S619	1326
+#seq	Spolyrhiza9509S281	6276
+#seq	Spolyrhiza9509S048	165031
+#seq	Spolyrhiza9509S447	1933
+#seq	Spolyrhiza9509S504	1617
+#seq	Spolyrhiza9509S432	2093
+#seq	Spolyrhiza9509S186	12733
+#seq	Spolyrhiza9509S315	4581
+#seq	Spolyrhiza9509S091	42445
+#seq	Spolyrhiza9509S143	19640
+#seq	Spolyrhiza9509S096	38032
+#seq	Spolyrhiza9509S185	12835
+#seq	Spolyrhiza9509S513	1594
+#seq	Spolyrhiza9509S630	1277
+#seq	Spolyrhiza9509S481	1698
+#seq	Spolyrhiza9509S057	102833
+#seq	Spolyrhiza9509S687	1162
+#seq	Spolyrhiza9509S085	47932
+#seq	Spolyrhiza9509S557	1464
+#seq	Spolyrhiza9509S090	42490
+#seq	Spolyrhiza9509S134	22186
+#seq	Spolyrhiza9509S040	219179
+#seq	Spolyrhiza9509S733	1066
+#seq	Spolyrhiza9509S003	8120397
+#seq	Spolyrhiza9509S402	2382
+#seq	Spolyrhiza9509S750	1046
+#seq	Spolyrhiza9509S671	1183
+#seq	Spolyrhiza9509S562	1449
+#seq	Spolyrhiza9509S081	56055
+#seq	Spolyrhiza9509S593	1380
+#seq	Spolyrhiza9509S019	3386415
+#seq	Spolyrhiza9509S382	2709
+#seq	Spolyrhiza9509S404	2351
+#seq	Spolyrhiza9509S536	1509
+#seq	Spolyrhiza9509S257	7383
+#seq	Spolyrhiza9509S683	1169
+#seq	Spolyrhiza9509S079	58414
+#seq	Spolyrhiza9509S126	24135
+#seq	Spolyrhiza9509S213	10249
+#seq	Spolyrhiza9509S391	2581
+#seq	Spolyrhiza9509S309	4806
+#seq	Spolyrhiza9509S604	1351
+#seq	Spolyrhiza9509S107	30449
+#seq	Spolyrhiza9509S043	202696
+#seq	Spolyrhiza9509S135	22116
+#seq	Spolyrhiza9509S262	7056
+#seq	Spolyrhiza9509S340	3792
+#seq	Spolyrhiza9509S173	13843
+#seq	Spolyrhiza9509S454	1872
+#seq	Spolyrhiza9509S658	1229
+#seq	Spolyrhiza9509S496	1640
+#seq	Spolyrhiza9509S044	192136
+#seq	Spolyrhiza9509S030	1517691
+#seq	Spolyrhiza9509S053	127411
+#seq	Spolyrhiza9509S294	5489
+#seq	Spolyrhiza9509S725	1092
+#seq	Spolyrhiza9509S337	3849
+#seq	Spolyrhiza9509S037	573651
+#seq	Spolyrhiza9509S247	7951
+#seq	Spolyrhiza9509S282	6208
+#seq	Spolyrhiza9509S612	1341
+#seq	Spolyrhiza9509S523	1560
+#seq	Spolyrhiza9509S758	1020
+#seq	Spolyrhiza9509S041	204565
+#seq	Spolyrhiza9509S329	4208
+#seq	Spolyrhiza9509S678	1174
+#seq	Spolyrhiza9509S366	3044
+#seq	Spolyrhiza9509S590	1388
+#seq	Spolyrhiza9509S718	1108
+#seq	Spolyrhiza9509S088	44712
+#seq	Spolyrhiza9509S565	1441
+#seq	Spolyrhiza9509S207	10908
+#seq	Spolyrhiza9509S453	1876
+#seq	Spolyrhiza9509S648	1252
+#seq	Spolyrhiza9509S289	5875
+#seq	Spolyrhiza9509S705	1130
+#seq	Spolyrhiza9509S515	1577
+#seq	Spolyrhiza9509S093	41560
+#seq	Spolyrhiza9509S321	4454
+#seq	Spolyrhiza9509S579	1412
+#seq	Spolyrhiza9509S205	10971
+#seq	Spolyrhiza9509S626	1288
+#seq	Spolyrhiza9509S099	36475
+#seq	Spolyrhiza9509S461	1843
+#seq	Spolyrhiza9509S774	929
+#seq	Spolyrhiza9509S742	1054
+#seq	Spolyrhiza9509S248	7886
+#seq	Spolyrhiza9509S375	2865
+#seq	Spolyrhiza9509S425	2149
+#seq	Spolyrhiza9509S449	1917
+#seq	Spolyrhiza9509S485	1684
+#seq	Spolyrhiza9509S606	1349
+#seq	Spolyrhiza9509S553	1476
+#seq	Spolyrhiza9509S531	1533
+#seq	Spolyrhiza9509S580	1410
+#seq	Spolyrhiza9509S476	1720
+#seq	Spolyrhiza9509S295	5431
+#seq	Spolyrhiza9509S749	1049
+#seq	Spolyrhiza9509S225	9542
+#seq	Spolyrhiza9509S433	2084
+#seq	Spolyrhiza9509S354	3334
+#seq	Spolyrhiza9509S024	2453646
+#seq	Spolyrhiza9509S271	6693
+#seq	Spolyrhiza9509S001	9015277
+#seq	Spolyrhiza9509S132	22665
+#seq	Spolyrhiza9509S056	113606
+#seq	Spolyrhiza9509S347	3547
+#seq	Spolyrhiza9509S695	1151
+#seq	Spolyrhiza9509S122	24780
+#seq	Spolyrhiza9509S631	1277
+#seq	Spolyrhiza9509S765	1013
+#seq	Spolyrhiza9509S394	2547
+#seq	Spolyrhiza9509S442	1996
+#seq	Spolyrhiza9509S472	1748
+#seq	Spolyrhiza9509S338	3824
+#seq	Spolyrhiza9509S156	16908
+#seq	Spolyrhiza9509S410	2238
+#seq	Spolyrhiza9509S650	1251
+#seq	Spolyrhiza9509S493	1657
+#seq	Spolyrhiza9509S252	7634
+#seq	Spolyrhiza9509S342	3747
+#seq	Spolyrhiza9509S193	12485
+#seq	Spolyrhiza9509S514	1586
+#seq	Spolyrhiza9509S729	1083
+#seq	Spolyrhiza9509S614	1333
+#seq	Spolyrhiza9509S537	1509
+#seq	Spolyrhiza9509S734	1065
+#seq	Spolyrhiza9509S639	1269
+#seq	Spolyrhiza9509S087	46837
+#seq	Spolyrhiza9509S038	293997
+#seq	Spolyrhiza9509S214	10237
+#seq	Spolyrhiza9509S148	18739
+#seq	Spolyrhiza9509S277	6524
+#seq	Spolyrhiza9509S684	1165
+#seq	Spolyrhiza9509S125	24347
+#seq	Spolyrhiza9509S415	2224
+#seq	Spolyrhiza9509S283	6193
+#seq	Spolyrhiza9509S401	2427
+#seq	Spolyrhiza9509S710	1120
+#seq	Spolyrhiza9509S206	10915
+#seq	Spolyrhiza9509S381	2721
+#seq	Spolyrhiza9509S563	1445
+#seq	Spolyrhiza9509S603	1351
+#seq	Spolyrhiza9509S665	1206
+#seq	Spolyrhiza9509S575	1421
+#seq	Spolyrhiza9509S006	6076885
+#seq	Spolyrhiza9509S756	1031
+#seq	Spolyrhiza9509S594	1373
+#seq	Spolyrhiza9509S263	6945
+#seq	Spolyrhiza9509S105	30904
+#seq	Spolyrhiza9509S023	3036380
+#seq	Spolyrhiza9509S328	4263
+#seq	Spolyrhiza9509S724	1094
+#seq	Spolyrhiza9509S204	10997
+#seq	Spolyrhiza9509S063	90043
+#seq	Spolyrhiza9509S584	1399
+#seq	Spolyrhiza9509S409	2273
+#seq	Spolyrhiza9509S576	1416
+#seq	Spolyrhiza9509S017	3518955
+#seq	Spolyrhiza9509S129	23118
+#seq	Spolyrhiza9509S520	1566
+#seq	Spolyrhiza9509S054	122320
+#seq	Spolyrhiza9509S031	1473552
+#seq	Spolyrhiza9509S069	71936
+#seq	Spolyrhiza9509S364	3133
+#seq	Spolyrhiza9509S640	1263
+#seq	Spolyrhiza9509S320	4475
+#seq	Spolyrhiza9509S458	1855
+#seq	Spolyrhiza9509S719	1103
+#seq	Spolyrhiza9509S757	1021
+#seq	Spolyrhiza9509S106	30806
+#seq	Spolyrhiza9509S094	41255
+#seq	Spolyrhiza9509S119	26098
+#seq	Spolyrhiza9509S299	5330
+#seq	Spolyrhiza9509S426	2135
+#seq	Spolyrhiza9509S224	9549
+#seq	Spolyrhiza9509S356	3298
+#seq	Spolyrhiza9509S693	1154
+#seq	Spolyrhiza9509S677	1175
+#seq	Spolyrhiza9509S554	1476
+#seq	Spolyrhiza9509S313	4608
+#seq	Spolyrhiza9509S470	1785
+#seq	Spolyrhiza9509S365	3052
+#seq	Spolyrhiza9509S581	1405
+#seq	Spolyrhiza9509S353	3335
+#seq	Spolyrhiza9509S076	61172
+#seq	Spolyrhiza9509S133	22504
+#seq	Spolyrhiza9509S440	2021
+#seq	Spolyrhiza9509S341	3792
+#seq	Spolyrhiza9509S473	1743
+#seq	Spolyrhiza9509S307	4827
+#seq	Spolyrhiza9509S713	1112
+#seq	Spolyrhiza9509S711	1118
+#seq	Spolyrhiza9509S647	1253
+#seq	Spolyrhiza9509S042	204415
+#seq	Spolyrhiza9509S245	8010
+#seq	Spolyrhiza9509S249	7815
+#seq	Spolyrhiza9509S455	1872
+#seq	Spolyrhiza9509S766	1009
+#seq	Spolyrhiza9509S625	1291
+#seq	Spolyrhiza9509S239	8381
+#seq	Spolyrhiza9509S462	1834
+#seq	Spolyrhiza9509S170	14337
+#seq	Spolyrhiza9509S624	1294
+#seq	Spolyrhiza9509S005	7641483
+#seq	Spolyrhiza9509S055	115322
+#seq	Spolyrhiza9509S256	7445
+#seq	Spolyrhiza9509S694	1152
+#seq	Spolyrhiza9509S638	1270
+#seq	Spolyrhiza9509S149	18653
+#seq	Spolyrhiza9509S728	1085
+#seq	Spolyrhiza9509S273	6649
+#seq	Spolyrhiza9509S483	1688
+#seq	Spolyrhiza9509S227	9432
+#seq	Spolyrhiza9509S376	2858
+#seq	Spolyrhiza9509S192	12486
+#seq	Spolyrhiza9509S611	1341
+#seq	Spolyrhiza9509S253	7612
+#seq	Spolyrhiza9509S009	4659761
+#seq	Spolyrhiza9509S130	22787
+#seq	Spolyrhiza9509S532	1523
+#seq	Spolyrhiza9509S124	24446
+#seq	Spolyrhiza9509S480	1699
+#seq	Spolyrhiza9509S194	12471
+#seq	Spolyrhiza9509S033	845254
+#seq	Spolyrhiza9509S673	1182
+#seq	Spolyrhiza9509S578	1414
+#seq	Spolyrhiza9509S312	4610
+#seq	Spolyrhiza9509S444	1944
+#seq	Spolyrhiza9509S657	1229
+#seq	Spolyrhiza9509S398	2439
+#seq	Spolyrhiza9509S352	3373
+#seq	Spolyrhiza9509S491	1664
+#seq	Spolyrhiza9509S545	1501
+#seq	Spolyrhiza9509S071	65073
+#seq	Spolyrhiza9509S163	15393
+#seq	Spolyrhiza9509S622	1315
+#seq	Spolyrhiza9509S181	13023
+#seq	Spolyrhiza9509S322	4431
+#seq	Spolyrhiza9509S070	67001
+#seq	Spolyrhiza9509S301	5242
+#seq	Spolyrhiza9509S097	37861
+#seq	Spolyrhiza9509S499	1631
+#seq	Spolyrhiza9509S652	1246
+#seq	Spolyrhiza9509S434	2082
+#seq	Spolyrhiza9509S046	189064
+#seq	Spolyrhiza9509S368	2960
+#seq	Spolyrhiza9509S723	1095
+#seq	Spolyrhiza9509S177	13415
+#seq	Spolyrhiza9509S264	6906
+#seq	Spolyrhiza9509S236	8679
+#seq	Spolyrhiza9509S077	60921
+#seq	Spolyrhiza9509S551	1480
+#seq	Spolyrhiza9509S218	9909
+#seq	Spolyrhiza9509S773	974
+#seq	Spolyrhiza9509S215	10210
+#seq	Spolyrhiza9509S771	999
+#seq	Spolyrhiza9509S702	1140
+#seq	Spolyrhiza9509S552	1478
+#seq	Spolyrhiza9509S165	15110
+#seq	Spolyrhiza9509S406	2347
+#seq	Spolyrhiza9509S416	2223
+#seq	Spolyrhiza9509S585	1399
+#seq	Spolyrhiza9509S369	2959
+#seq	Spolyrhiza9509S451	1910
+#seq	Spolyrhiza9509S701	1141
+#seq	Spolyrhiza9509S114	27284
+#seq	Spolyrhiza9509S335	3881
+#seq	Spolyrhiza9509S435	2056
+#seq	Spolyrhiza9509S722	1095
+#seq	Spolyrhiza9509S740	1055
+#seq	Spolyrhiza9509S602	1354
+#seq	Spolyrhiza9509S266	6890
+#seq	Spolyrhiza9509S399	2437
+#seq	Spolyrhiza9509S598	1364
+#seq	Spolyrhiza9509S104	31439
+#seq	Spolyrhiza9509S747	1051
+#seq	Spolyrhiza9509S152	17631
+#seq	Spolyrhiza9509S336	3853
+#seq	Spolyrhiza9509S351	3373
+#seq	Spolyrhiza9509S506	1604
+#seq	Spolyrhiza9509S323	4407
+#seq	Spolyrhiza9509S763	1017
+#seq	Spolyrhiza9509S246	7997
+#seq	Spolyrhiza9509S478	1712
+#seq	Spolyrhiza9509S284	6160
+#seq	Spolyrhiza9509S522	1560
+#seq	Spolyrhiza9509S712	1117
+#seq	Spolyrhiza9509S026	2347211
+#seq	Spolyrhiza9509S036	625073
+#seq	Spolyrhiza9509S250	7715
+#seq	Spolyrhiza9509S171	14265
+#seq	Spolyrhiza9509S004	7692616
+#seq	Spolyrhiza9509S028	1926080
+#seq	Spolyrhiza9509S293	5511
+#seq	Spolyrhiza9509S162	15409
+#seq	Spolyrhiza9509S487	1672
+#seq	Spolyrhiza9509S573	1427
+#seq	Spolyrhiza9509S420	2194
+#seq	Spolyrhiza9509S203	11051
+#seq	Spolyrhiza9509S623	1304
+#seq	Spolyrhiza9509S403	2364
+#seq	Spolyrhiza9509S538	1509
+#seq	Spolyrhiza9509S632	1276
+#seq	Spolyrhiza9509S392	2579
+#seq	Spolyrhiza9509S334	3905
+#seq	Spolyrhiza9509S670	1185
+#seq	Spolyrhiza9509S500	1629
+#seq	Spolyrhiza9509S319	4484
+#seq	Spolyrhiza9509S146	19579
+#seq	Spolyrhiza9509S127	23717
+#seq	Spolyrhiza9509S317	4541
+#seq	Spolyrhiza9509S345	3613
+#seq	Spolyrhiza9509S761	1019
+#seq	Spolyrhiza9509S011	4316079
+#seq	Spolyrhiza9509S664	1206
+#seq	Spolyrhiza9509S154	17165
+#seq	Spolyrhiza9509S219	9864
+#seq	Spolyrhiza9509S259	7281
+#seq	Spolyrhiza9509S642	1259
+#seq	Spolyrhiza9509S065	83650
+#seq	Spolyrhiza9509S654	1236
+#seq	Spolyrhiza9509S510	1600
+#seq	Spolyrhiza9509S592	1383
+#seq	Spolyrhiza9509S261	7107
+#seq	Spolyrhiza9509S265	6905
+#seq	Spolyrhiza9509S564	1444
+#seq	Spolyrhiza9509S025	2436305
+#seq	Spolyrhiza9509S202	11401
+#seq	Spolyrhiza9509S452	1888
+#seq	Spolyrhiza9509S333	3905
+#seq	Spolyrhiza9509S613	1340
+#seq	Spolyrhiza9509S292	5612
+#seq	Spolyrhiza9509S180	13194
+#seq	Spolyrhiza9509S251	7670
+#seq	Spolyrhiza9509S237	8648
+#seq	Spolyrhiza9509S479	1702
+#seq	Spolyrhiza9509S494	1657
+#seq	Spolyrhiza9509S544	1504
+#seq	Spolyrhiza9509S533	1514
+#seq	Spolyrhiza9509S131	22753
+#seq	Spolyrhiza9509S182	12985
+#seq	Spolyrhiza9509S045	189540
+#seq	Spolyrhiza9509S285	6136
+#seq	Spolyrhiza9509S772	988
+#seq	Spolyrhiza9509S226	9436
+#seq	Spolyrhiza9509S373	2878
+#seq	Spolyrhiza9509S559	1455
+#seq	Spolyrhiza9509S739	1056
+#seq	Spolyrhiza9509S651	1248
+#seq	Spolyrhiza9509S748	1050
+#seq	Spolyrhiza9509S762	1018
+#seq	Spolyrhiza9509S700	1143
+#seq	Spolyrhiza9509S397	2470
+#seq	Spolyrhiza9509S703	1138
+#seq	Spolyrhiza9509S176	13511
+#seq	Spolyrhiza9509S244	8058
+#seq	Spolyrhiza9509S686	1164
+#seq	Spolyrhiza9509S591	1387
+#seq	Spolyrhiza9509S078	59659
+#seq	Spolyrhiza9509S471	1753
+#seq	Spolyrhiza9509S569	1432
+#seq	Spolyrhiza9509S279	6315
+#seq	Spolyrhiza9509S699	1144
+#seq	Spolyrhiza9509S367	2999
+#seq	Spolyrhiza9509S310	4756
+#seq	Spolyrhiza9509S616	1330
+#seq	Spolyrhiza9509S517	1572
+#seq	Spolyrhiza9509S374	2878
+#seq	Spolyrhiza9509S443	1965
+#seq	Spolyrhiza9509S405	2350
+#seq	Spolyrhiza9509S721	1095
+#seq	Spolyrhiza9509S530	1537
+#seq	Spolyrhiza9509S314	4588
+#seq	Spolyrhiza9509S599	1362
+#seq	Spolyrhiza9509S659	1228
+#seq	Spolyrhiza9509S390	2594
+#seq	Spolyrhiza9509S572	1428
+#seq	Spolyrhiza9509S539	1507
+#seq	Spolyrhiza9509S027	2013320
+#seq	Spolyrhiza9509S302	5198
+#seq	Spolyrhiza9509S601	1358
+#seq	Spolyrhiza9509S649	1251
+#seq	Spolyrhiza9509S153	17522
+#seq	Spolyrhiza9509S764	1016
+#seq	Spolyrhiza9509S715	1110
+#seq	Spolyrhiza9509S155	16918
+#seq	Spolyrhiza9509S679	1170
+#seq	Spolyrhiza9509S103	32233
+#seq	Spolyrhiza9509S477	1715
+#seq	Spolyrhiza9509S311	4726
+#seq	Spolyrhiza9509S160	16163
+#seq	Spolyrhiza9509S463	1816
+#seq	Spolyrhiza9509S002	8977274
+#seq	Spolyrhiza9509S243	8195
+#seq	Spolyrhiza9509S755	1034
+#seq	Spolyrhiza9509S486	1675
+#seq	Spolyrhiza9509S258	7342
+#seq	Spolyrhiza9509S436	2035
+#seq	Spolyrhiza9509S167	14434
+#seq	Spolyrhiza9509S012	4305909
+#seq	Spolyrhiza9509S066	76885
+#seq	Spolyrhiza9509S457	1855
+#seq	Spolyrhiza9509S586	1397
+#seq	Spolyrhiza9509S384	2675
+#seq	Spolyrhiza9509S641	1260
+#seq	Spolyrhiza9509S147	18779
+#seq	Spolyrhiza9509S348	3545
+#Contig	Position	Strand	Methylated	Total	Ratio
+Spolyrhiza9509S016	688396	+	0	1
+Spolyrhiza9509S016	688421	+	0	1
+Spolyrhiza9509S016	688434	+	0	1
+Spolyrhiza9509S016	688440	+	0	1
+Spolyrhiza9509S016	688454	+	0	1
+Spolyrhiza9509S016	688459	+	0	1
+Spolyrhiza9509S016	688467	+	0	1
+Spolyrhiza9509S016	688627	+	0	1
+Spolyrhiza9509S016	688633	+	0	1
+Spolyrhiza9509S021	555652	+	0	1
+Spolyrhiza9509S021	555656	+	0	1
+Spolyrhiza9509S021	555660	+	0	1
+Spolyrhiza9509S021	555663	+	0	1
+Spolyrhiza9509S021	555710	+	0	1
+Spolyrhiza9509S021	555721	+	0	1
+Spolyrhiza9509S021	555814	+	0	1
+Spolyrhiza9509S021	555828	+	0	1
+Spolyrhiza9509S013	752244	+	0	1
+Spolyrhiza9509S013	752253	+	0	1
+Spolyrhiza9509S013	752278	+	0	1
+Spolyrhiza9509S013	752374	+	0	1
+Spolyrhiza9509S013	752383	+	0	1
+Spolyrhiza9509S013	1231921	+	0	1
+Spolyrhiza9509S013	1231948	+	0	1
+Spolyrhiza9509S013	1231957	+	0	1
+Spolyrhiza9509S013	1231987	+	0	1
+Spolyrhiza9509S013	1232005	+	0	1
+Spolyrhiza9509S013	1232008	+	0	1
+Spolyrhiza9509S013	1232012	+	0	1
+Spolyrhiza9509S013	1232024	+	0	1
+Spolyrhiza9509S013	1232026	+	0	1
+Spolyrhiza9509S013	1232044	+	0	1
+Spolyrhiza9509S013	1232063	+	0	1
+Spolyrhiza9509S013	3354719	-	1	1
+Spolyrhiza9509S013	4104291	-	0	1
+Spolyrhiza9509S013	4104317	-	0	1
+Spolyrhiza9509S013	4104367	-	0	1
+Spolyrhiza9509S013	4104398	-	0	1
+Spolyrhiza9509S013	4104407	-	0	1
+Spolyrhiza9509S020	26845	+	1	1
+Spolyrhiza9509S020	26853	+	1	1
+Spolyrhiza9509S020	26872	+	1	1
+Spolyrhiza9509S020	26895	+	1	1
+Spolyrhiza9509S020	26901	+	1	1
+Spolyrhiza9509S020	26915	+	1	1
+Spolyrhiza9509S020	27082	+	0	1
+Spolyrhiza9509S020	27084	+	1	1
+Spolyrhiza9509S020	27112	+	1	1
+Spolyrhiza9509S020	971378	-	0	1
+Spolyrhiza9509S020	971390	-	0	1
+Spolyrhiza9509S020	971416	-	0	1
+Spolyrhiza9509S010	2139904	+	0	1
+Spolyrhiza9509S010	2139913	+	0	1
+Spolyrhiza9509S010	2139963	+	0	1
+Spolyrhiza9509S010	2140052	+	0	1
+Spolyrhiza9509S010	2140056	+	0	1
+Spolyrhiza9509S010	2140058	+	0	1
+Spolyrhiza9509S010	2140075	+	0	1
+Spolyrhiza9509S010	2140078	+	0	1
+Spolyrhiza9509S010	2140092	+	0	1
+Spolyrhiza9509S010	2140095	+	0	1
+Spolyrhiza9509S010	2140110	+	0	1
+Spolyrhiza9509S010	2140114	+	0	1
+Spolyrhiza9509S034	542402	-	1	1
+Spolyrhiza9509S034	542410	-	1	1
+Spolyrhiza9509S034	542422	-	1	1
+Spolyrhiza9509S014	1829404	+	0	1
+Spolyrhiza9509S039	211501	-	0	1
+Spolyrhiza9509S039	211504	-	0	1
+Spolyrhiza9509S039	211578	-	0	1
+Spolyrhiza9509S039	211597	-	0	1
+Spolyrhiza9509S039	211613	-	0	1
+Spolyrhiza9509S039	211624	-	0	1
+Spolyrhiza9509S039	211629	-	0	1
+Spolyrhiza9509S039	211637	-	0	1
+gi|342316100|ref|NC_015891.1|	25339	+	0	1
+gi|342316100|ref|NC_015891.1|	37385	-	0	1
+gi|342316100|ref|NC_015891.1|	37399	-	0	1
+gi|342316100|ref|NC_015891.1|	37441	-	0	1
+gi|342316100|ref|NC_015891.1|	37546	-	0	1
+gi|342316100|ref|NC_015891.1|	41013	-	0	1
+gi|342316100|ref|NC_015891.1|	41064	-	0	1
+gi|342316100|ref|NC_015891.1|	41073	-	0	1
+gi|342316100|ref|NC_015891.1|	41084	-	0	1
+gi|342316100|ref|NC_015891.1|	41444	-	0	1
+gi|342316100|ref|NC_015891.1|	44861	-	0	1
+gi|342316100|ref|NC_015891.1|	45095	-	0	1
+gi|342316100|ref|NC_015891.1|	45097	-	0	1
+gi|342316100|ref|NC_015891.1|	45112	-	0	1
+gi|342316100|ref|NC_015891.1|	45125	-	0	1
+gi|342316100|ref|NC_015891.1|	45133	-	0	1
+gi|342316100|ref|NC_015891.1|	55701	+	0	1
+gi|342316100|ref|NC_015891.1|	56023	+	0	1
+gi|342316100|ref|NC_015891.1|	79090	-	0	1
+gi|342316100|ref|NC_015891.1|	79109	-	0	1
+gi|342316100|ref|NC_015891.1|	79135	-	0	1
+gi|342316100|ref|NC_015891.1|	79286	-	0	1
+gi|342316100|ref|NC_015891.1|	80706	+	0	1
+gi|342316100|ref|NC_015891.1|	80865	+	0	1
+gi|342316100|ref|NC_015891.1|	88148	-	0	1
+gi|342316100|ref|NC_015891.1|	88172	-	0	1
+gi|342316100|ref|NC_015891.1|	88180	-	0	1
+gi|342316100|ref|NC_015891.1|	88182	-	0	1
+Spolyrhiza9509S018	3015781	+	0	1
+Spolyrhiza9509S018	3015792	+	0	1
+Spolyrhiza9509S018	3015812	+	0	1
+Spolyrhiza9509S018	3015823	+	0	1
+Spolyrhiza9509S018	3015916	+	0	1
+Spolyrhiza9509S018	3015929	+	0	1
+Spolyrhiza9509S018	3015944	+	0	1
+Spolyrhiza9509S018	3015985	+	0	1
+Spolyrhiza9509S018	3015989	+	0	1
+Spolyrhiza9509S008	947382	-	0	2
+Spolyrhiza9509S008	947384	-	0	2
+Spolyrhiza9509S008	947445	+	0	1
+Spolyrhiza9509S008	947446	-	0	2
+Spolyrhiza9509S008	947457	+	1	1
+Spolyrhiza9509S008	947458	-	1	2
+Spolyrhiza9509S008	947491	+	0	1
+Spolyrhiza9509S008	947492	-	0	1
+Spolyrhiza9509S008	947497	+	0	1
+Spolyrhiza9509S008	947498	-	0	1
+Spolyrhiza9509S008	947560	+	0	1
+Spolyrhiza9509S008	947561	-	0	1
+Spolyrhiza9509S008	947568	+	0	1
+Spolyrhiza9509S008	947569	-	0	1
+Spolyrhiza9509S008	947602	+	0	1
+Spolyrhiza9509S008	947603	-	0	1
+Spolyrhiza9509S008	947645	-	0	1
+Spolyrhiza9509S008	947651	-	0	1
+Spolyrhiza9509S008	947659	-	0	1
+Spolyrhiza9509S008	947688	-	0	2
+Spolyrhiza9509S008	947692	-	0	2
+Spolyrhiza9509S008	947705	-	0	1
+Spolyrhiza9509S008	947708	-	0	1
+Spolyrhiza9509S008	947712	-	0	1
+Spolyrhiza9509S008	947731	-	0	1
+Spolyrhiza9509S008	2312030	+	0	1
+Spolyrhiza9509S008	2312053	+	0	1
+Spolyrhiza9509S008	2312085	+	0	1
+Spolyrhiza9509S008	2312093	+	0	1
+Spolyrhiza9509S008	2312112	+	0	1
+Spolyrhiza9509S008	2312125	+	0	1
+Spolyrhiza9509S008	3862432	+	0	1
+Spolyrhiza9509S008	3862464	+	0	1
+Spolyrhiza9509S008	5281677	+	0	1
+Spolyrhiza9509S008	5281746	+	0	1
+Spolyrhiza9509S008	5281753	+	0	1
+Spolyrhiza9509S008	5281757	+	0	1
+Spolyrhiza9509S032	1372232	-	0	1
+Spolyrhiza9509S032	1372247	-	0	1
+Spolyrhiza9509S032	1372258	-	0	1
+Spolyrhiza9509S047	44063	-	0	1
+Spolyrhiza9509S047	44091	-	0	1
+Spolyrhiza9509S047	44286	-	0	1
+Spolyrhiza9509S047	44295	-	0	1
+Spolyrhiza9509S015	896093	-	1	1
+Spolyrhiza9509S015	896141	-	1	1
+Spolyrhiza9509S015	3025587	-	0	1
+Spolyrhiza9509S015	3025589	-	0	1
+Spolyrhiza9509S015	3025661	-	0	1
+Spolyrhiza9509S007	3502763	+	0	1
+Spolyrhiza9509S007	3502765	+	0	1
+Spolyrhiza9509S007	3502783	+	0	1
+Spolyrhiza9509S007	3502794	+	0	1
+Spolyrhiza9509S007	3502807	+	0	1
+Spolyrhiza9509S007	3502849	+	0	1
+Spolyrhiza9509S007	4027470	-	0	1
+Spolyrhiza9509S007	4027481	-	0	1
+Spolyrhiza9509S007	4027486	-	0	1
+Spolyrhiza9509S007	4027524	-	0	1
+Spolyrhiza9509S007	6008267	+	1	1
+Spolyrhiza9509S007	6008288	+	1	1
+Spolyrhiza9509S007	6008311	+	0	1
+Spolyrhiza9509S007	6008323	+	1	1
+Spolyrhiza9509S007	6008513	+	1	1
+Spolyrhiza9509S007	6008522	+	1	1
+Spolyrhiza9509S003	1495148	+	0	1
+Spolyrhiza9509S003	1495153	+	0	1
+Spolyrhiza9509S003	1495155	+	0	1
+Spolyrhiza9509S003	1495163	+	0	1
+Spolyrhiza9509S003	1495191	+	0	1
+Spolyrhiza9509S003	1495228	+	0	1
+Spolyrhiza9509S003	1495241	+	0	1
+Spolyrhiza9509S003	1495259	+	0	1
+Spolyrhiza9509S003	2373838	-	0	1
+Spolyrhiza9509S003	2373844	-	0	1
+Spolyrhiza9509S003	2373852	-	0	1
+Spolyrhiza9509S003	2373857	-	0	1
+Spolyrhiza9509S003	2373860	-	0	1
+Spolyrhiza9509S003	2373867	-	0	1
+Spolyrhiza9509S003	2373877	-	0	1
+Spolyrhiza9509S003	2373888	-	0	1
+Spolyrhiza9509S003	2373893	-	0	1
+Spolyrhiza9509S003	2373896	-	0	1
+Spolyrhiza9509S003	2373899	-	0	1
+Spolyrhiza9509S003	2373902	-	0	1
+Spolyrhiza9509S003	2638038	-	0	1
+Spolyrhiza9509S003	2638054	-	0	1
+Spolyrhiza9509S003	2638059	-	0	1
+Spolyrhiza9509S003	2638062	-	0	1
+Spolyrhiza9509S003	2638065	-	0	1
+Spolyrhiza9509S003	2638077	-	0	1
+Spolyrhiza9509S003	2638080	-	0	1
+Spolyrhiza9509S003	2638092	-	0	1
+Spolyrhiza9509S003	2638098	-	0	1
+Spolyrhiza9509S003	2638103	-	0	1
+Spolyrhiza9509S003	2638146	-	0	1
+Spolyrhiza9509S003	2638154	-	0	1
+Spolyrhiza9509S003	2638162	-	0	1
+Spolyrhiza9509S003	2638170	-	0	1
+Spolyrhiza9509S003	2638172	-	0	1
+Spolyrhiza9509S003	2638175	-	0	1
+Spolyrhiza9509S003	2638178	-	0	1
+Spolyrhiza9509S003	2638181	-	0	1
+Spolyrhiza9509S003	2638183	-	0	1
+Spolyrhiza9509S003	2638205	-	0	1
+Spolyrhiza9509S003	3530968	+	0	1
+Spolyrhiza9509S003	3530985	+	0	1
+Spolyrhiza9509S003	3530999	+	0	1
+Spolyrhiza9509S003	3531022	+	0	1
+Spolyrhiza9509S003	3531028	+	0	1
+Spolyrhiza9509S003	3531087	+	0	1
+Spolyrhiza9509S003	3531094	+	0	1
+Spolyrhiza9509S003	3531097	+	0	1
+Spolyrhiza9509S003	3531100	+	0	1
+Spolyrhiza9509S003	3531104	+	0	1
+Spolyrhiza9509S003	3531110	+	0	1
+Spolyrhiza9509S003	7903436	-	1	1
+Spolyrhiza9509S019	3114720	-	1	1
+Spolyrhiza9509S019	3114725	-	1	1
+Spolyrhiza9509S019	3114756	-	1	1
+Spolyrhiza9509S019	3114790	-	1	1
+Spolyrhiza9509S019	3114842	-	1	1
+Spolyrhiza9509S030	1326882	+	0	1
+Spolyrhiza9509S030	1327122	+	0	1
+Spolyrhiza9509S030	1327131	+	0	1
+Spolyrhiza9509S030	1327158	+	0	1
+Spolyrhiza9509S030	1327174	+	0	1
+Spolyrhiza9509S030	1327195	+	0	1
+Spolyrhiza9509S030	1489688	+	0	1
+Spolyrhiza9509S030	1489736	+	0	1
+Spolyrhiza9509S024	1103673	+	0	1
+Spolyrhiza9509S024	1103685	+	0	1
+Spolyrhiza9509S024	1103688	+	0	1
+Spolyrhiza9509S024	1103706	+	0	1
+Spolyrhiza9509S024	1103713	+	0	1
+Spolyrhiza9509S024	1103727	+	0	1
+Spolyrhiza9509S024	1103731	+	0	1
+Spolyrhiza9509S024	1103747	+	0	1
+Spolyrhiza9509S024	1103868	+	0	1
+Spolyrhiza9509S024	1103871	+	0	1
+Spolyrhiza9509S024	1541374	-	0	1
+Spolyrhiza9509S024	1541377	-	0	1
+Spolyrhiza9509S024	1541392	-	0	1
+Spolyrhiza9509S024	1541413	-	0	1
+Spolyrhiza9509S001	550631	-	0	1
+Spolyrhiza9509S001	550641	-	0	1
+Spolyrhiza9509S001	550649	-	0	1
+Spolyrhiza9509S001	550652	-	0	1
+Spolyrhiza9509S001	550659	-	0	1
+Spolyrhiza9509S001	550673	-	0	1
+Spolyrhiza9509S001	550685	-	0	1
+Spolyrhiza9509S001	550688	-	0	1
+Spolyrhiza9509S001	550696	-	0	1
+Spolyrhiza9509S001	550699	-	0	1
+Spolyrhiza9509S001	550724	-	0	1
+Spolyrhiza9509S001	2395919	-	0	1
+Spolyrhiza9509S001	2395944	-	0	1
+Spolyrhiza9509S001	2396017	-	0	1
+Spolyrhiza9509S001	2396036	-	0	1
+Spolyrhiza9509S001	2396042	-	0	1
+Spolyrhiza9509S001	2396063	-	0	1
+Spolyrhiza9509S001	2396069	-	0	1
+Spolyrhiza9509S001	2396076	-	0	1
+Spolyrhiza9509S001	2396098	-	0	1
+Spolyrhiza9509S001	3783637	+	0	1
+Spolyrhiza9509S001	3783647	+	0	1
+Spolyrhiza9509S001	3783656	+	0	1
+Spolyrhiza9509S001	3783661	+	0	1
+Spolyrhiza9509S001	3783668	+	0	1
+Spolyrhiza9509S001	3783671	+	0	1
+Spolyrhiza9509S001	3783674	+	0	1
+Spolyrhiza9509S001	3783695	+	0	1
+Spolyrhiza9509S001	3783698	+	0	1
+Spolyrhiza9509S001	3783714	+	0	1
+Spolyrhiza9509S001	3783716	+	0	1
+Spolyrhiza9509S001	3783797	+	0	1
+Spolyrhiza9509S001	3783806	+	0	1
+Spolyrhiza9509S001	3783809	+	0	1
+Spolyrhiza9509S001	3783813	+	0	1
+Spolyrhiza9509S001	3783817	+	0	1
+Spolyrhiza9509S001	3783834	+	0	1
+Spolyrhiza9509S001	3783847	+	0	1
+Spolyrhiza9509S001	3783857	+	0	1
+Spolyrhiza9509S001	3783871	+	0	1
+Spolyrhiza9509S001	4135482	-	0	1
+Spolyrhiza9509S001	4135567	-	0	1
+Spolyrhiza9509S001	4135596	-	0	1
+Spolyrhiza9509S001	4135602	-	0	1
+Spolyrhiza9509S001	4204989	-	0	1
+Spolyrhiza9509S001	4205059	-	0	1
+Spolyrhiza9509S001	7687644	-	0	1
+Spolyrhiza9509S001	7687670	-	0	1
+Spolyrhiza9509S001	7687723	-	0	1
+Spolyrhiza9509S001	7687820	-	1	1
+Spolyrhiza9509S001	7687850	-	1	1
+Spolyrhiza9509S001	7795384	+	0	1
+Spolyrhiza9509S001	7795387	+	0	1
+Spolyrhiza9509S001	7795426	+	0	1
+Spolyrhiza9509S001	7795433	+	0	1
+Spolyrhiza9509S001	7795438	+	0	1
+Spolyrhiza9509S001	7795441	+	0	1
+Spolyrhiza9509S001	7795459	+	0	1
+Spolyrhiza9509S001	7795469	+	0	1
+Spolyrhiza9509S001	7795487	+	0	1
+Spolyrhiza9509S006	549955	+	0	1
+Spolyrhiza9509S006	550011	+	0	1
+Spolyrhiza9509S006	1109794	+	0	1
+Spolyrhiza9509S006	1109802	+	0	1
+Spolyrhiza9509S006	1109813	+	0	1
+Spolyrhiza9509S006	1426544	-	0	1
+Spolyrhiza9509S006	1426560	-	0	1
+Spolyrhiza9509S006	1498531	+	0	1
+Spolyrhiza9509S006	1498580	+	1	1
+Spolyrhiza9509S006	2123502	+	0	1
+Spolyrhiza9509S006	2123511	+	0	1
+Spolyrhiza9509S006	2123575	+	0	1
+Spolyrhiza9509S006	2123595	+	0	1
+Spolyrhiza9509S006	2123602	+	0	1
+Spolyrhiza9509S006	4292489	-	0	1
+Spolyrhiza9509S006	4292495	-	0	1
+Spolyrhiza9509S006	4292497	-	0	1
+Spolyrhiza9509S006	4292515	-	0	1
+Spolyrhiza9509S006	4292558	-	0	1
+Spolyrhiza9509S006	4292600	-	0	1
+Spolyrhiza9509S006	4292605	-	0	1
+Spolyrhiza9509S006	4317312	-	0	1
+Spolyrhiza9509S006	4317341	-	0	1
+Spolyrhiza9509S023	94236	-	0	1
+Spolyrhiza9509S023	94242	-	0	1
+Spolyrhiza9509S023	94257	-	0	1
+Spolyrhiza9509S023	94264	-	0	1
+Spolyrhiza9509S023	94312	-	0	1
+Spolyrhiza9509S023	903997	+	0	1
+Spolyrhiza9509S023	904010	+	0	1
+Spolyrhiza9509S023	904079	+	0	1
+Spolyrhiza9509S023	1516331	-	1	1
+Spolyrhiza9509S023	1516361	-	1	1
+Spolyrhiza9509S023	1516367	-	1	1
+Spolyrhiza9509S023	1516443	-	1	1
+Spolyrhiza9509S023	1516451	-	1	1
+Spolyrhiza9509S017	2448445	+	1	1
+Spolyrhiza9509S031	138200	-	0	1
+Spolyrhiza9509S031	138224	-	0	1
+Spolyrhiza9509S031	138271	-	0	1
+Spolyrhiza9509S031	138390	-	0	1
+Spolyrhiza9509S031	138409	-	0	1
+Spolyrhiza9509S031	138425	-	0	1
+Spolyrhiza9509S031	138433	-	1	1
+Spolyrhiza9509S031	138440	-	0	1
+Spolyrhiza9509S031	138443	-	0	1
+Spolyrhiza9509S031	138446	-	0	1
+Spolyrhiza9509S005	47785	+	0	1
+Spolyrhiza9509S005	47788	+	0	1
+Spolyrhiza9509S005	47791	+	0	1
+Spolyrhiza9509S005	47797	+	0	1
+Spolyrhiza9509S005	47822	+	0	1
+Spolyrhiza9509S005	47826	+	0	1
+Spolyrhiza9509S005	47840	+	0	1
+Spolyrhiza9509S005	47850	+	0	1
+Spolyrhiza9509S005	47857	+	0	1
+Spolyrhiza9509S005	47862	+	0	1
+Spolyrhiza9509S005	47868	+	0	1
+Spolyrhiza9509S005	47882	+	0	1
+Spolyrhiza9509S005	47908	+	0	1
+Spolyrhiza9509S005	47913	+	0	1
+Spolyrhiza9509S005	2238908	+	0	1
+Spolyrhiza9509S005	2238920	+	0	1
+Spolyrhiza9509S005	2238936	+	0	1
+Spolyrhiza9509S005	2239024	+	0	1
+Spolyrhiza9509S005	2239037	+	0	1
+Spolyrhiza9509S005	2239055	+	0	1
+Spolyrhiza9509S005	2239061	+	0	1
+Spolyrhiza9509S005	2239082	+	0	1
+Spolyrhiza9509S005	2239085	+	0	1
+Spolyrhiza9509S005	2239090	+	0	1
+Spolyrhiza9509S005	6783580	+	0	1
+Spolyrhiza9509S005	6783586	+	0	1
+Spolyrhiza9509S005	6783616	+	0	1
+Spolyrhiza9509S005	6783631	+	0	1
+Spolyrhiza9509S005	6916190	+	0	1
+Spolyrhiza9509S026	98178	-	0	1
+Spolyrhiza9509S026	98206	-	0	1
+Spolyrhiza9509S026	98214	-	0	1
+Spolyrhiza9509S026	98217	-	0	1
+Spolyrhiza9509S026	98229	-	0	1
+Spolyrhiza9509S026	98237	-	0	1
+Spolyrhiza9509S026	98240	-	0	1
+Spolyrhiza9509S026	98323	-	0	1
+Spolyrhiza9509S026	364820	+	0	1
+Spolyrhiza9509S026	364885	+	0	1
+Spolyrhiza9509S026	1582681	+	0	1
+Spolyrhiza9509S026	1582692	+	0	1
+Spolyrhiza9509S026	1582697	+	0	1
+Spolyrhiza9509S026	1582704	+	0	1
+Spolyrhiza9509S026	1582725	+	0	1
+Spolyrhiza9509S026	1582729	+	0	1
+Spolyrhiza9509S026	1582731	+	1	1
+Spolyrhiza9509S004	1056298	-	0	1
+Spolyrhiza9509S004	1056321	-	0	1
+Spolyrhiza9509S004	1056329	-	0	1
+Spolyrhiza9509S004	1056335	-	0	1
+Spolyrhiza9509S004	1056342	-	0	1
+Spolyrhiza9509S004	1056348	-	0	1
+Spolyrhiza9509S004	1395554	-	0	1
+Spolyrhiza9509S004	1395563	-	0	1
+Spolyrhiza9509S004	1395579	-	0	1
+Spolyrhiza9509S004	1395625	-	0	1
+Spolyrhiza9509S004	1395628	-	0	1
+Spolyrhiza9509S004	1395632	-	0	1
+Spolyrhiza9509S004	1395794	-	0	1
+Spolyrhiza9509S004	1395797	-	0	1
+Spolyrhiza9509S004	1395799	-	0	1
+Spolyrhiza9509S004	1395809	-	0	1
+Spolyrhiza9509S004	1395830	-	0	1
+Spolyrhiza9509S004	1395833	-	0	1
+Spolyrhiza9509S004	1395852	-	0	1
+Spolyrhiza9509S004	1395854	-	0	1
+Spolyrhiza9509S004	1725951	-	0	1
+Spolyrhiza9509S004	1725954	-	0	1
+Spolyrhiza9509S004	1725956	-	0	1
+Spolyrhiza9509S004	1725958	-	0	1
+Spolyrhiza9509S004	1726016	-	0	1
+Spolyrhiza9509S004	1726056	-	0	1
+Spolyrhiza9509S004	1726061	-	0	1
+Spolyrhiza9509S004	1726067	-	0	1
+Spolyrhiza9509S004	1726071	-	0	1
+Spolyrhiza9509S004	1726079	-	0	1
+Spolyrhiza9509S004	1726083	-	1	1
+Spolyrhiza9509S004	2190605	-	0	1
+Spolyrhiza9509S004	2190619	-	0	1
+Spolyrhiza9509S004	2190627	-	0	1
+Spolyrhiza9509S004	2190649	-	0	1
+Spolyrhiza9509S004	2190703	-	0	1
+Spolyrhiza9509S004	2190714	-	0	1
+Spolyrhiza9509S004	2543467	-	0	1
+Spolyrhiza9509S004	2543476	-	0	1
+Spolyrhiza9509S004	2543791	-	0	1
+Spolyrhiza9509S004	3470670	+	0	1
+Spolyrhiza9509S004	3470679	+	0	1
+Spolyrhiza9509S004	3470685	+	0	1
+Spolyrhiza9509S004	3470688	+	0	1
+Spolyrhiza9509S004	3470694	+	0	1
+Spolyrhiza9509S004	3470697	+	0	1
+Spolyrhiza9509S004	3470700	+	0	1
+Spolyrhiza9509S004	3470721	+	0	1
+Spolyrhiza9509S004	3470733	+	0	1
+Spolyrhiza9509S004	3470875	+	0	1
+Spolyrhiza9509S004	3470886	+	0	1
+Spolyrhiza9509S004	3470892	+	0	1
+Spolyrhiza9509S004	4812685	+	0	1
+Spolyrhiza9509S004	4812709	+	0	1
+Spolyrhiza9509S004	4812726	+	0	1
+Spolyrhiza9509S004	4812770	+	0	1
+Spolyrhiza9509S004	5934778	-	0	1
+Spolyrhiza9509S004	5934798	-	0	1
+Spolyrhiza9509S004	5934831	-	0	1
+Spolyrhiza9509S004	6849098	-	0	1
+Spolyrhiza9509S004	6849112	-	0	1
+Spolyrhiza9509S004	6849158	-	0	1
+Spolyrhiza9509S004	6849188	-	0	1
+Spolyrhiza9509S004	6849191	-	0	1
+Spolyrhiza9509S004	6849194	-	0	1
+Spolyrhiza9509S004	6849198	-	0	1
+Spolyrhiza9509S028	337156	+	0	1
+Spolyrhiza9509S028	337175	+	0	1
+Spolyrhiza9509S028	337250	+	0	1
+Spolyrhiza9509S028	337255	+	0	1
+Spolyrhiza9509S011	155434	+	0	1
+Spolyrhiza9509S011	155453	+	0	1
+Spolyrhiza9509S011	155727	+	0	1
+Spolyrhiza9509S011	155737	+	0	1
+Spolyrhiza9509S011	649838	-	0	1
+Spolyrhiza9509S011	649844	-	0	1
+Spolyrhiza9509S011	649862	-	0	1
+Spolyrhiza9509S011	649871	-	0	1
+Spolyrhiza9509S011	649873	-	0	1
+Spolyrhiza9509S011	649877	-	0	1
+Spolyrhiza9509S011	649881	-	0	1
+Spolyrhiza9509S011	649894	-	0	1
+Spolyrhiza9509S011	649919	-	0	1
+Spolyrhiza9509S011	649922	-	0	1
+Spolyrhiza9509S011	957986	-	0	1
+Spolyrhiza9509S011	958002	-	0	1
+Spolyrhiza9509S011	958016	-	0	1
+Spolyrhiza9509S011	958036	-	0	1
+Spolyrhiza9509S011	958057	-	0	1
+Spolyrhiza9509S011	958061	-	0	1
+Spolyrhiza9509S011	2859579	+	0	1
+Spolyrhiza9509S011	2859596	+	0	1
+Spolyrhiza9509S011	2859621	+	0	1
+Spolyrhiza9509S025	2071496	-	0	1
+Spolyrhiza9509S027	721498	+	0	1
+Spolyrhiza9509S002	756757	-	0	1
+Spolyrhiza9509S002	756762	-	0	1
+Spolyrhiza9509S002	756865	-	0	1
+Spolyrhiza9509S002	756904	-	0	1
+Spolyrhiza9509S002	963917	+	0	1
+Spolyrhiza9509S002	964012	+	0	1
+Spolyrhiza9509S002	964026	+	0	1
+Spolyrhiza9509S002	2211624	+	0	1
+Spolyrhiza9509S002	2211633	+	0	1
+Spolyrhiza9509S002	2211697	+	0	1
+Spolyrhiza9509S002	2211702	+	0	1
+Spolyrhiza9509S002	2871724	-	0	1
+Spolyrhiza9509S002	2871733	-	0	1
+Spolyrhiza9509S002	2871749	-	0	1
+Spolyrhiza9509S002	2871756	-	0	1
+Spolyrhiza9509S002	2871759	-	0	1
+Spolyrhiza9509S002	2871767	-	0	1
+Spolyrhiza9509S002	2871769	-	0	1
+Spolyrhiza9509S002	2871772	-	0	1
+Spolyrhiza9509S002	2871779	-	0	1
+Spolyrhiza9509S002	2871814	-	0	1
+Spolyrhiza9509S002	2871821	-	0	1
+Spolyrhiza9509S002	2871830	-	0	1
+Spolyrhiza9509S002	2871838	-	0	1
+Spolyrhiza9509S002	4928606	+	0	1
+Spolyrhiza9509S002	4928618	+	0	1
+Spolyrhiza9509S002	4928642	+	0	1
+Spolyrhiza9509S002	4928683	+	0	1
+Spolyrhiza9509S002	4928687	+	0	1
+Spolyrhiza9509S002	5721396	-	0	1
+Spolyrhiza9509S002	5721403	-	0	1
+Spolyrhiza9509S002	5721419	-	0	1
+Spolyrhiza9509S002	5721432	-	0	1
+Spolyrhiza9509S002	5721446	-	0	1
+Spolyrhiza9509S002	5721481	-	0	1
+Spolyrhiza9509S002	5721498	-	0	1
+Spolyrhiza9509S002	5721511	-	0	1
+Spolyrhiza9509S002	5721515	-	0	1
+Spolyrhiza9509S002	5721531	-	0	1
+Spolyrhiza9509S002	5721540	-	0	1
+Spolyrhiza9509S002	5721543	-	0	1
+Spolyrhiza9509S002	5721550	-	0	1
+Spolyrhiza9509S002	5721559	-	0	1
+Spolyrhiza9509S012	3311907	+	0	1
+Spolyrhiza9509S012	3311929	+	0	1
+Spolyrhiza9509S012	3311937	+	0	1
+Spolyrhiza9509S012	3311953	+	0	1
+Spolyrhiza9509S012	3312009	+	0	1
+Spolyrhiza9509S012	3942127	-	0	1
+Spolyrhiza9509S012	3942130	-	1	1
+Spolyrhiza9509S012	3942133	-	0	1
+Spolyrhiza9509S012	3942136	-	0	1
+Spolyrhiza9509S012	3942164	-	0	1
+Spolyrhiza9509S012	3942173	-	0	1
+Spolyrhiza9509S012	3942201	-	0	1
+Spolyrhiza9509S012	3942301	-	0	1
+Spolyrhiza9509S012	3942304	-	0	1
+Spolyrhiza9509S012	3942307	-	0	1
+Spolyrhiza9509S012	3942310	-	0	1
+Spolyrhiza9509S012	3942343	-	0	1
+Spolyrhiza9509S012	3942357	-	0	1
+Spolyrhiza9509S012	4270836	-	0	1
+Spolyrhiza9509S012	4270846	-	0	1
+Spolyrhiza9509S012	4270925	-	0	1
+Spolyrhiza9509S012	4270928	-	0	1

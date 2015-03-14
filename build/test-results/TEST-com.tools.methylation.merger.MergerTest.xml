@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tools.methylation.merger.MergerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-03-14T18:09:42" hostname="Connors-MacBook-Pro-2.local" time="0.033">
+  <properties/>
+  <testcase name="testRun" classname="com.tools.methylation.merger.MergerTest" time="0.017"/>
+  <testcase name="testMerge" classname="com.tools.methylation.merger.MergerTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,223 @@
+v11:09:40.176 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Read block 1
+w11:09:40.189 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+Å11:09:40.189 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+Å11:09:40.190 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+Å11:09:40.190 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+Å11:09:40.190 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+”[INFO] [03/14/2015 11:09:40.199] [MethylationSystem-akka.actor.default-dispatcher-4] [akka://MethylationSystem/user/$a/writer] Message [akka.actor.PoisonPill$] from Actor[akka://MethylationSystem/user/$a#-1057693758] to Actor[akka://MethylationSystem/user/$a/writer#1131224758] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+‘[INFO] [03/14/2015 11:09:40.202] [MethylationSystem-akka.actor.default-dispatcher-4] [akka://MethylationSystem/user/$a/worker] Message [akka.actor.PoisonPill$] from Actor[akka://MethylationSystem/user/$a#-1057693758] to Actor[akka://MethylationSystem/user/$a/worker#-1362729182] was not delivered. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+^11:09:40.279 [Test worker] INFO  c.t.m.e.BismarkMethylationExtractor - Using 910 MB of memory
+v11:09:40.335 [MethylationSystem-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Read block 1
+Å11:09:40.336 [MethylationSystem-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+w11:09:40.342 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+Å11:09:40.342 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+›[INFO] [03/14/2015 11:09:40.348] [MethylationSystem-akka.actor.default-dispatcher-3] [akka://MethylationSystem/user/$a/blocker] Message [akka.actor.Terminated] from Actor[akka://MethylationSystem/user/$a/blocker/$a#730765008] to Actor[akka://MethylationSystem/user/$a/blocker#1285892805] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+â11:09:40.348 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:1884175
+â11:09:40.369 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:4135274
+Ï[INFO] [03/14/2015 11:09:40.369] [MethylationSystem-akka.actor.default-dispatcher-2] [akka://MethylationSystem/user/$a/$a/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://MethylationSystem/user/$a/$a/writer#-1013167965] to Actor[akka://MethylationSystem/user/$a/$a/writer#-1013167965] was not delivered. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+⁄[INFO] [03/14/2015 11:09:40.369] [MethylationSystem-akka.actor.default-dispatcher-2] [akka://MethylationSystem/user/$a/$a/$a] Message [akka.actor.Terminated] from Actor[akka://MethylationSystem/user/$a/$a/writer#-1013167965] to Actor[akka://MethylationSystem/user/$a/$a/$a#1582957469] was not delivered. [3] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+Ë[INFO] [03/14/2015 11:09:40.379] [MethylationSystem-akka.actor.default-dispatcher-4] [akka://MethylationSystem/user/$a/$b/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://MethylationSystem/user/$a/$b/writer#171021253] to Actor[akka://MethylationSystem/user/$a/$b/writer#171021253] was not delivered. [4] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+â11:09:40.379 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:6386373
+ÿ[INFO] [03/14/2015 11:09:40.379] [MethylationSystem-akka.actor.default-dispatcher-4] [akka://MethylationSystem/user/$a/$b/$a] Message [akka.actor.Terminated] from Actor[akka://MethylationSystem/user/$a/$b/writer#171021253] to Actor[akka://MethylationSystem/user/$a/$b/$a#1306159049] was not delivered. [5] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+â11:09:40.383 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:8637472
+Ë[INFO] [03/14/2015 11:09:40.383] [MethylationSystem-akka.actor.default-dispatcher-5] [akka://MethylationSystem/user/$a/$c/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://MethylationSystem/user/$a/$c/writer#109516655] to Actor[akka://MethylationSystem/user/$a/$c/writer#109516655] was not delivered. [6] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+ÿ[INFO] [03/14/2015 11:09:40.384] [MethylationSystem-akka.actor.default-dispatcher-5] [akka://MethylationSystem/user/$a/$c/$a] Message [akka.actor.Terminated] from Actor[akka://MethylationSystem/user/$a/$c/writer#109516655] to Actor[akka://MethylationSystem/user/$a/$c/$a#2110050108] was not delivered. [7] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+ä11:09:40.387 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:10888571
+Ë[INFO] [03/14/2015 11:09:40.387] [MethylationSystem-akka.actor.default-dispatcher-3] [akka://MethylationSystem/user/$a/$d/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://MethylationSystem/user/$a/$d/writer#592440883] to Actor[akka://MethylationSystem/user/$a/$d/writer#592440883] was not delivered. [8] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+ÿ[INFO] [03/14/2015 11:09:40.387] [MethylationSystem-akka.actor.default-dispatcher-3] [akka://MethylationSystem/user/$a/$d/$a] Message [akka.actor.Terminated] from Actor[akka://MethylationSystem/user/$a/$d/writer#592440883] to Actor[akka://MethylationSystem/user/$a/$d/$a#1706989546] was not delivered. [9] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+ä11:09:40.391 [MethylationSystem-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:13139670
+ê[INFO] [03/14/2015 11:09:40.391] [MethylationSystem-akka.actor.default-dispatcher-4] [akka://MethylationSystem/user/$a/$e/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://MethylationSystem/user/$a/$e/writer#-786352486] to Actor[akka://MethylationSystem/user/$a/$e/writer#-786352486] was not delivered. [10] dead letters encountered, no more dead letters will be logged. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+ä11:09:40.395 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:15390769
+ä11:09:40.399 [MethylationSystem-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:17641868
+â11:09:40.403 [MethylationSystem-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:1307911
+â11:09:40.410 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:8061208
+ä11:09:40.420 [MethylationSystem-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:10312307
+ä11:09:40.424 [MethylationSystem-akka.actor.default-dispatcher-4] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:12563406
+ä11:09:40.427 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:14814505
+ä11:09:40.433 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:19316703
+ä11:09:40.437 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:21567802
+ä11:09:40.441 [MethylationSystem-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:23818901
+à11:09:40.446 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:144527
+â11:09:40.449 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:2395626
+â11:09:40.453 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:4646725
+â11:09:40.458 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:6897824
+â11:09:40.462 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:9148923
+ä11:09:40.467 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:15902220
+ä11:09:40.472 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:20404418
+â11:09:40.476 [MethylationSystem-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:1243806
+â11:09:40.488 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:3494905
+â11:09:40.491 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:5746004
+â11:09:40.496 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:7997103
+ä11:09:40.501 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:10248202
+ä11:09:40.505 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:14750400
+ä11:09:40.509 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:17001499
+ä11:09:40.514 [MethylationSystem-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:19252598
+â11:09:40.518 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:1805408
+â11:09:40.522 [MethylationSystem-akka.actor.default-dispatcher-8] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:4056507
+â11:09:40.526 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:6307606
+â11:09:40.530 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:8558705
+ä11:09:40.533 [MethylationSystem-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:13060903
+ä11:09:40.537 [MethylationSystem-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:15312002
+ä11:09:40.541 [MethylationSystem-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:17563101
+ä11:09:40.545 [MethylationSystem-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:22065299
+ä11:09:40.550 [MethylationSystem-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:26567497
+
+l11:09:40.633 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Read block 1
+
+w11:09:40.634 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+
+m11:09:40.638 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+
+w11:09:40.638 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+l11:09:40.833 [TestSys-akka.actor.default-dispatcher-7] INFO  com.tools.actors.AbstractMaster - Read block 1
+w11:09:40.833 [TestSys-akka.actor.default-dispatcher-7] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+m11:09:40.906 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+w11:09:40.906 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+l11:09:41.028 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Read block 1
+w11:09:41.028 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+m11:09:41.033 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+w11:09:41.033 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+l11:09:41.262 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Read block 1
+w11:09:41.262 [TestSys-akka.actor.default-dispatcher-7] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+m11:09:41.278 [TestSys-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+w11:09:41.278 [TestSys-akka.actor.default-dispatcher-4] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+11:09:41.283 [TestSys-akka.actor.default-dispatcher-4] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:2202597
+—[INFO] [03/14/2015 11:09:41.283] [TestSys-akka.actor.default-dispatcher-7] [akka://TestSys/user/$a/blocker/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/blocker/writer#-730289489] to Actor[akka://TestSys/user/$a/blocker/writer#-730289489] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+¡[INFO] [03/14/2015 11:09:41.283] [TestSys-akka.actor.default-dispatcher-7] [akka://TestSys/user/$a/blocker/$a] Message [akka.actor.Terminated] from Actor[akka://TestSys/user/$a/blocker/writer#-730289489] to Actor[akka://TestSys/user/$a/blocker/$a#-1080980042] was not delivered. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+11:09:41.288 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:4453696
+¿[INFO] [03/14/2015 11:09:41.288] [TestSys-akka.actor.default-dispatcher-2] [akka://TestSys/user/$a/$a/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/$a/writer#991055655] to Actor[akka://TestSys/user/$a/$a/writer#991055655] was not delivered. [3] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+√[INFO] [03/14/2015 11:09:41.288] [TestSys-akka.actor.default-dispatcher-2] [akka://TestSys/user/$a/$a/$a] Message [akka.dispatch.sysmsg.DeathWatchNotification] from Actor[akka://TestSys/user/$a/$a/$a#1917137300] to Actor[akka://TestSys/user/$a/$a/$a#1917137300] was not delivered. [4] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+¿[INFO] [03/14/2015 11:09:41.291] [TestSys-akka.actor.default-dispatcher-6] [akka://TestSys/user/$a/$b/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/$b/writer#279465397] to Actor[akka://TestSys/user/$a/$b/writer#279465397] was not delivered. [5] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+∞[INFO] [03/14/2015 11:09:41.291] [TestSys-akka.actor.default-dispatcher-6] [akka://TestSys/user/$a/$b/$a] Message [akka.actor.Terminated] from Actor[akka://TestSys/user/$a/$b/writer#279465397] to Actor[akka://TestSys/user/$a/$b/$a#1864445284] was not delivered. [6] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+11:09:41.292 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:8955894
+Ä11:09:41.295 [TestSys-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:11206993
+¬[INFO] [03/14/2015 11:09:41.295] [TestSys-akka.actor.default-dispatcher-3] [akka://TestSys/user/$a/$c/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/$c/writer#-671590463] to Actor[akka://TestSys/user/$a/$c/writer#-671590463] was not delivered. [7] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+≤[INFO] [03/14/2015 11:09:41.295] [TestSys-akka.actor.default-dispatcher-3] [akka://TestSys/user/$a/$c/$a] Message [akka.actor.Terminated] from Actor[akka://TestSys/user/$a/$c/writer#-671590463] to Actor[akka://TestSys/user/$a/$c/$a#-1910600890] was not delivered. [8] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+Ä11:09:41.299 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:13458092
+¬[INFO] [03/14/2015 11:09:41.299] [TestSys-akka.actor.default-dispatcher-7] [akka://TestSys/user/$a/$d/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/$d/writer#-937314962] to Actor[akka://TestSys/user/$a/$d/writer#-937314962] was not delivered. [9] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+È[INFO] [03/14/2015 11:09:41.299] [TestSys-akka.actor.default-dispatcher-7] [akka://TestSys/user/$a/$d/$a] Message [akka.dispatch.sysmsg.DeathWatchNotification] from Actor[akka://TestSys/user/$a/$d/$a#-717567912] to Actor[akka://TestSys/user/$a/$d/$a#-717567912] was not delivered. [10] dead letters encountered, no more dead letters will be logged. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+Ä11:09:41.302 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:15709191
+Ä11:09:41.306 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr4:17960290
+11:09:41.309 [TestSys-akka.actor.default-dispatcher-4] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:1626333
+11:09:41.313 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:8379630
+Ä11:09:41.317 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:10630729
+Ä11:09:41.320 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:12881828
+Ä11:09:41.323 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:15132927
+Ä11:09:41.327 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:19635125
+Ä11:09:41.330 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:21886224
+Ä11:09:41.334 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr1:24137323
+~11:09:41.338 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:462949
+11:09:41.342 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:2714048
+11:09:41.345 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:4965147
+11:09:41.349 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:7216246
+Ä11:09:41.354 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:16220642
+Ä11:09:41.359 [TestSys-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr3:20722840
+11:09:41.362 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:1610730
+11:09:41.369 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:3861829
+11:09:41.373 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:6112928
+11:09:41.377 [TestSys-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:8364027
+Ä11:09:41.389 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:10615126
+Ä11:09:41.394 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:15117324
+Ä11:09:41.397 [TestSys-akka.actor.default-dispatcher-8] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:17368423
+Ä11:09:41.401 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Chr2:19619522
+11:09:41.404 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:1805408
+11:09:41.408 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:4056507
+11:09:41.411 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:6307606
+11:09:41.414 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:8558705
+Ä11:09:41.417 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:13060903
+Ä11:09:41.420 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:15312002
+Ä11:09:41.424 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:17563101
+Ä11:09:41.427 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:22065299
+Ä11:09:41.430 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Chr5:26567497
+l11:09:41.549 [TestSys-akka.actor.default-dispatcher-7] INFO  com.tools.actors.AbstractMaster - Read block 1
+w11:09:41.549 [TestSys-akka.actor.default-dispatcher-7] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+m11:09:41.678 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+w11:09:41.678 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+∏[INFO] [03/14/2015 11:09:41.685] [TestSys-akka.actor.default-dispatcher-5] [akka://TestSys/user/$a/blocker] Message [akka.actor.Terminated] from Actor[akka://TestSys/user/$a/blocker/$a#-1263477155] to Actor[akka://TestSys/user/$a/blocker#-2003928228] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+ç11:09:41.696 [TestSys-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S016:2240315
+¿[INFO] [03/14/2015 11:09:41.712] [TestSys-akka.actor.default-dispatcher-7] [akka://TestSys/user/$a/$a/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/$a/writer#644112960] to Actor[akka://TestSys/user/$a/$a/writer#644112960] was not delivered. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+±[INFO] [03/14/2015 11:09:41.712] [TestSys-akka.actor.default-dispatcher-7] [akka://TestSys/user/$a/$a/$a] Message [akka.actor.Terminated] from Actor[akka://TestSys/user/$a/$a/writer#644112960] to Actor[akka://TestSys/user/$a/$a/$a#-1661630620] was not delivered. [3] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+å11:09:41.721 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S021:764341
+¬[INFO] [03/14/2015 11:09:41.734] [TestSys-akka.actor.default-dispatcher-3] [akka://TestSys/user/$a/$b/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/$b/writer#-396062835] to Actor[akka://TestSys/user/$a/$b/writer#-396062835] was not delivered. [4] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+∞[INFO] [03/14/2015 11:09:41.735] [TestSys-akka.actor.default-dispatcher-3] [akka://TestSys/user/$a/$b/$a] Message [akka.actor.Terminated] from Actor[akka://TestSys/user/$a/$b/writer#-396062835] to Actor[akka://TestSys/user/$a/$b/$a#350640512] was not delivered. [5] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+ç11:09:41.751 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S013:1204095
+¿[INFO] [03/14/2015 11:09:41.758] [TestSys-akka.actor.default-dispatcher-7] [akka://TestSys/user/$a/$c/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/$c/writer#792932547] to Actor[akka://TestSys/user/$a/$c/writer#792932547] was not delivered. [6] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+±[INFO] [03/14/2015 11:09:41.758] [TestSys-akka.actor.default-dispatcher-7] [akka://TestSys/user/$a/$c/$a] Message [akka.actor.Terminated] from Actor[akka://TestSys/user/$a/$c/writer#792932547] to Actor[akka://TestSys/user/$a/$c/$a#-1449442384] was not delivered. [7] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+ç11:09:41.761 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S013:3455194
+∂[INFO] [03/14/2015 11:09:41.768] [TestSys-akka.actor.default-dispatcher-2] [akka://TestSys/user/$a/$d/$a] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/$d/$a#-328018851] to Actor[akka://TestSys/user/$a/$d/$a#-328018851] was not delivered. [8] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+¿[INFO] [03/14/2015 11:09:41.769] [TestSys-akka.actor.default-dispatcher-2] [akka://TestSys/user/$a/$d/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/$d/writer#596279447] to Actor[akka://TestSys/user/$a/$d/writer#596279447] was not delivered. [9] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+ç11:09:41.771 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S020:1213861
+Ë[INFO] [03/14/2015 11:09:41.777] [TestSys-akka.actor.default-dispatcher-2] [akka://TestSys/user/$a/$e/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/$e/writer#-434850856] to Actor[akka://TestSys/user/$a/$e/writer#-434850856] was not delivered. [10] dead letters encountered, no more dead letters will be logged. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+ç11:09:41.781 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S010:2196402
+ç11:09:41.790 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S029:1433902
+ç11:09:41.798 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S014:4011304
+å11:09:41.804 [TestSys-akka.actor.default-dispatcher-4] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S018:590771
+ç11:09:41.816 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S022:1449587
+ç11:09:41.824 [TestSys-akka.actor.default-dispatcher-8] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S008:2726627
+ç11:09:41.832 [TestSys-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S008:4977726
+ã11:09:41.838 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S058:56022
+ç11:09:41.849 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S015:2209962
+ã11:09:41.855 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S007:42064
+ç11:09:41.862 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S007:4544262
+ä11:09:41.868 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S090:5047
+ç11:09:41.873 [TestSys-akka.actor.default-dispatcher-8] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S003:1971225
+ç11:09:41.879 [TestSys-akka.actor.default-dispatcher-8] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S003:4222324
+å11:09:41.886 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S019:540630
+ç11:09:41.893 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S030:1062927
+å11:09:41.899 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S024:637090
+å11:09:41.905 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S001:427850
+ç11:09:41.911 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S001:2678949
+ç11:09:41.917 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S001:4930048
+å11:09:41.926 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S038:138213
+ç11:09:41.935 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S006:2003280
+ç11:09:41.947 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S006:4254379
+å11:09:41.960 [TestSys-akka.actor.default-dispatcher-8] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S023:388340
+ç11:09:41.973 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S023:2639439
+å11:09:41.989 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S031:327813
+å11:09:42.000 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S005:534313
+ç11:09:42.013 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S005:2785412
+ç11:09:42.028 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S005:7287610
+ç11:09:42.040 [TestSys-akka.actor.default-dispatcher-8] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S009:1710233
+ç11:09:42.061 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S026:2195279
+ç11:09:42.075 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S004:1452114
+ç11:09:42.087 [TestSys-akka.actor.default-dispatcher-9] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S004:3703213
+ç11:09:42.095 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S004:5954312
+å11:09:42.101 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S028:512795
+å11:09:42.107 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S011:727846
+ç11:09:42.113 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S011:2978945
+å11:09:42.120 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S027:145718
+å11:09:42.125 [TestSys-akka.actor.default-dispatcher-7] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S002:281301
+ç11:09:42.130 [TestSys-akka.actor.default-dispatcher-4] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S002:2532400
+ç11:09:42.136 [TestSys-akka.actor.default-dispatcher-3] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S002:4783499
+ç11:09:42.142 [TestSys-akka.actor.default-dispatcher-2] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S002:7034598
+å11:09:42.148 [TestSys-akka.actor.default-dispatcher-6] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S012:273708
+ä11:09:42.154 [TestSys-akka.actor.default-dispatcher-5] INFO  c.tools.methylation.extractor.Master - Extracting to Spolyrhiza9509S348:3545
+π[INFO] [03/14/2015 11:09:42.313] [TestSys-akka.actor.default-dispatcher-5] [akka://TestSys/user/$a/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/writer#1514160406] to Actor[akka://TestSys/user/$a/writer#1514160406] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+∫[INFO] [03/14/2015 11:09:42.313] [TestSys-akka.actor.default-dispatcher-5] [akka://TestSys/user/$a/$a] Message [akka.dispatch.sysmsg.DeathWatchNotification] from Actor[akka://TestSys/user/$a/$a#-587707838] to Actor[akka://TestSys/user/$a/$a#-587707838] was not delivered. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+"!l11:09:42.447 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Read block 1
+"!w11:09:42.448 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+"!m11:09:42.449 [TestSys-akka.actor.default-dispatcher-6] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+"!w11:09:42.449 [TestSys-akka.actor.default-dispatcher-6] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+"#l11:09:42.577 [TestSys-akka.actor.default-dispatcher-6] INFO  com.tools.actors.AbstractMaster - Read block 1
+"#m11:09:42.577 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+"#l11:09:42.577 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Read block 2
+"#l11:09:42.578 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Read block 3
+"#m11:09:42.578 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Wrote block 2
+"#w11:09:42.578 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+"#w11:09:42.578 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+"#m11:09:42.578 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Wrote block 3
+"#w11:09:42.578 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+"#w11:09:42.578 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+"#w11:09:42.579 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+"#©[INFO] [03/14/2015 11:09:42.579] [TestSys-akka.actor.default-dispatcher-7] [akka://TestSys/user/$a/writer] Message [akka.actor.PoisonPill$] from Actor[akka://TestSys/user/$a#-244735174] to Actor[akka://TestSys/user/$a/writer#513414026] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+"#©[INFO] [03/14/2015 11:09:42.580] [TestSys-akka.actor.default-dispatcher-8] [akka://TestSys/user/$a/worker] Message [akka.actor.PoisonPill$] from Actor[akka://TestSys/user/$a#-244735174] to Actor[akka://TestSys/user/$a/worker#125446227] was not delivered. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+*)l11:09:42.786 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Read block 1
+*)l11:09:42.788 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Read block 2
+*)m11:09:42.791 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+*)m11:09:42.791 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Wrote block 2
+*)w11:09:42.791 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+*)w11:09:42.792 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+*)w11:09:42.792 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+*)w11:09:42.792 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+*)´[INFO] [03/14/2015 11:09:42.792] [TestSys-akka.actor.default-dispatcher-4] [akka://TestSys/user/$a/writer] Message [akka.actor.PoisonPill$] from Actor[akka://TestSys/user/$a#-258363594] to Actor[akka://TestSys/user/$a/writer#-1158730464] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+*)™[INFO] [03/14/2015 11:09:42.793] [TestSys-akka.actor.default-dispatcher-4] [akka://TestSys/user/$a/worker] Message [akka.actor.PoisonPill$] from Actor[akka://TestSys/user/$a#-258363594] to Actor[akka://TestSys/user/$a/worker#2038763812] was not delivered. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.

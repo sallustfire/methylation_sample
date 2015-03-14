@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tools.methylation.extractor.ExtractorIntegrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-03-14T18:09:42" hostname="Connors-MacBook-Pro-2.local" time="0.147">
+  <properties/>
+  <testcase name="testMethylationSingleEndCounting" classname="com.tools.methylation.extractor.ExtractorIntegrationTest" time="0.147"/>
+  <system-out><![CDATA[[INFO] [03/14/2015 11:09:42.313] [TestSys-akka.actor.default-dispatcher-5] [akka://TestSys/user/$a/writer] Message [akka.dispatch.sysmsg.Terminate] from Actor[akka://TestSys/user/$a/writer#1514160406] to Actor[akka://TestSys/user/$a/writer#1514160406] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+[INFO] [03/14/2015 11:09:42.313] [TestSys-akka.actor.default-dispatcher-5] [akka://TestSys/user/$a/$a] Message [akka.dispatch.sysmsg.DeathWatchNotification] from Actor[akka://TestSys/user/$a/$a#-587707838] to Actor[akka://TestSys/user/$a/$a#-587707838] was not delivered. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

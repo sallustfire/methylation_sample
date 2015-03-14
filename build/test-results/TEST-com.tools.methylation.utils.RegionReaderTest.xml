@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tools.methylation.utils.RegionReaderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-03-14T18:09:42" hostname="Connors-MacBook-Pro-2.local" time="0.034">
+  <properties/>
+  <testcase name="testRead" classname="com.tools.methylation.utils.RegionReaderTest" time="0.019"/>
+  <testcase name="testReadOverlapping" classname="com.tools.methylation.utils.RegionReaderTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

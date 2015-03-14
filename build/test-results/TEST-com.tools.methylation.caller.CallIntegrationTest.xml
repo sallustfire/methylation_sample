@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tools.methylation.caller.CallIntegrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-03-14T18:09:40" hostname="Connors-MacBook-Pro-2.local" time="0.158">
+  <properties/>
+  <testcase name="testCalling" classname="com.tools.methylation.caller.CallIntegrationTest" time="0.158"/>
+  <system-out><![CDATA[11:09:40.633 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Read block 1
+11:09:40.634 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+11:09:40.638 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+11:09:40.638 [TestSys-akka.actor.default-dispatcher-5] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

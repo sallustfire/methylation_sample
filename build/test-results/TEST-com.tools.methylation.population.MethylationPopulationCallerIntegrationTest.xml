@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tools.methylation.population.MethylationPopulationCallerIntegrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-03-14T18:09:42" hostname="Connors-MacBook-Pro-2.local" time="0.13">
+  <properties/>
+  <testcase name="testCalling" classname="com.tools.methylation.population.MethylationPopulationCallerIntegrationTest" time="0.13"/>
+  <system-out><![CDATA[11:09:42.786 [TestSys-akka.actor.default-dispatcher-3] INFO  com.tools.actors.AbstractMaster - Read block 1
+11:09:42.788 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Read block 2
+11:09:42.791 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Wrote block 1
+11:09:42.791 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Wrote block 2
+11:09:42.791 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+11:09:42.792 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+11:09:42.792 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Reading Blocks
+11:09:42.792 [TestSys-akka.actor.default-dispatcher-2] INFO  com.tools.actors.AbstractMaster - Finished Writing Blocks
+[INFO] [03/14/2015 11:09:42.792] [TestSys-akka.actor.default-dispatcher-4] [akka://TestSys/user/$a/writer] Message [akka.actor.PoisonPill$] from Actor[akka://TestSys/user/$a#-258363594] to Actor[akka://TestSys/user/$a/writer#-1158730464] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+[INFO] [03/14/2015 11:09:42.793] [TestSys-akka.actor.default-dispatcher-4] [akka://TestSys/user/$a/worker] Message [akka.actor.PoisonPill$] from Actor[akka://TestSys/user/$a#-258363594] to Actor[akka://TestSys/user/$a/worker#2038763812] was not delivered. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
